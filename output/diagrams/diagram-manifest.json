@@ -1,0 +1,1246 @@
+[
+  {
+    "page": 1,
+    "title": "Gambaran utama",
+    "svg": "D:\\Download_D\\KeuanganGW\\PASARIN\\output\\diagrams\\01-diagram-utama.svg",
+    "actors": [
+      "Pembeli",
+      "Pemilik UMKM",
+      "Admin"
+    ],
+    "usecases": [
+      {
+        "id": "UC-01",
+        "name": "Lihat katalog produk",
+        "box": [
+          320.0,
+          318.0,
+          380,
+          84
+        ],
+        "cell": "p1-12"
+      },
+      {
+        "id": "UC-02",
+        "name": "Cari produk",
+        "box": [
+          320.0,
+          440.0,
+          380,
+          84
+        ],
+        "cell": "p1-14"
+      },
+      {
+        "id": "UC-03",
+        "name": "Filter berdasarkan kategori",
+        "box": [
+          320.0,
+          562.0,
+          380,
+          84
+        ],
+        "cell": "p1-16"
+      },
+      {
+        "id": "UC-04",
+        "name": "Lihat detail produk dan toko",
+        "box": [
+          320.0,
+          684.0,
+          380,
+          84
+        ],
+        "cell": "p1-18"
+      },
+      {
+        "id": "UC-05",
+        "name": "Hubungi penjual via WhatsApp",
+        "box": [
+          320.0,
+          806.0,
+          380,
+          84
+        ],
+        "cell": "p1-20"
+      },
+      {
+        "id": "UC-06",
+        "name": "Daftar akun",
+        "box": [
+          320.0,
+          928.0,
+          380,
+          84
+        ],
+        "cell": "p1-22"
+      },
+      {
+        "id": "UC-07",
+        "name": "Masuk",
+        "box": [
+          320.0,
+          1050.0,
+          380,
+          84
+        ],
+        "cell": "p1-24"
+      },
+      {
+        "id": "UC-08",
+        "name": "Keluar",
+        "box": [
+          320.0,
+          1172.0,
+          380,
+          84
+        ],
+        "cell": "p1-26"
+      },
+      {
+        "id": "UC-09",
+        "name": "Pulihkan kata sandi",
+        "box": [
+          320.0,
+          1294.0,
+          380,
+          84
+        ],
+        "cell": "p1-28"
+      },
+      {
+        "id": "UC-10",
+        "name": "Beri / ubah rating dan ulasan",
+        "box": [
+          320.0,
+          1416.0,
+          380,
+          84
+        ],
+        "cell": "p1-30"
+      },
+      {
+        "id": "UC-11",
+        "name": "Laporkan konten",
+        "box": [
+          320.0,
+          1538.0,
+          380,
+          84
+        ],
+        "cell": "p1-32"
+      },
+      {
+        "id": "UC-12",
+        "name": "Dapatkan bantuan",
+        "box": [
+          320.0,
+          1660.0,
+          380,
+          84
+        ],
+        "cell": "p1-34"
+      },
+      {
+        "id": "UC-13",
+        "name": "Daftarkan identitas pemilik",
+        "box": [
+          900.0,
+          318.0,
+          380,
+          84
+        ],
+        "cell": "p1-36"
+      },
+      {
+        "id": "UC-14",
+        "name": "Buka toko",
+        "box": [
+          900.0,
+          440.0,
+          380,
+          84
+        ],
+        "cell": "p1-38"
+      },
+      {
+        "id": "UC-15",
+        "name": "Kelola profil toko",
+        "box": [
+          900.0,
+          562.0,
+          380,
+          84
+        ],
+        "cell": "p1-40"
+      },
+      {
+        "id": "UC-16",
+        "name": "Kelola produk",
+        "box": [
+          900.0,
+          684.0,
+          380,
+          84
+        ],
+        "cell": "p1-42"
+      },
+      {
+        "id": "UC-17",
+        "name": "Lihat dashboard UMKM",
+        "box": [
+          900.0,
+          806.0,
+          380,
+          84
+        ],
+        "cell": "p1-44"
+      },
+      {
+        "id": "UC-18",
+        "name": "Pantau status verifikasi",
+        "box": [
+          900.0,
+          928.0,
+          380,
+          84
+        ],
+        "cell": "p1-46"
+      },
+      {
+        "id": "UC-19",
+        "name": "Perbaiki dan ajukan ulang identitas",
+        "box": [
+          900.0,
+          1050.0,
+          380,
+          84
+        ],
+        "cell": "p1-48"
+      },
+      {
+        "id": "UC-20",
+        "name": "Lihat dashboard admin",
+        "box": [
+          900.0,
+          1238.0,
+          380,
+          84
+        ],
+        "cell": "p1-51"
+      },
+      {
+        "id": "UC-21",
+        "name": "Verifikasi identitas pemilik",
+        "box": [
+          900.0,
+          1360.0,
+          380,
+          84
+        ],
+        "cell": "p1-53"
+      },
+      {
+        "id": "UC-22",
+        "name": "Kelola kategori",
+        "box": [
+          900.0,
+          1482.0,
+          380,
+          84
+        ],
+        "cell": "p1-55"
+      },
+      {
+        "id": "UC-23",
+        "name": "Moderasi konten",
+        "box": [
+          900.0,
+          1604.0,
+          380,
+          84
+        ],
+        "cell": "p1-57"
+      },
+      {
+        "id": "UC-24",
+        "name": "Kelola toko dan produk",
+        "box": [
+          900.0,
+          1726.0,
+          380,
+          84
+        ],
+        "cell": "p1-59"
+      },
+      {
+        "id": "UC-25",
+        "name": "Blokir / buka blokir akun pemilik",
+        "box": [
+          900.0,
+          1848.0,
+          380,
+          84
+        ],
+        "cell": "p1-61"
+      }
+    ],
+    "relationships": [
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            360
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            482
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            604
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            726
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            848
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            970
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1092
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1214
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1336
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1458
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1580
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            123,
+            954
+          ],
+          [
+            320,
+            1702
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            360
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            482
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            604
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            726
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            848
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            970
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            679
+          ],
+          [
+            1280,
+            1092
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1280
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1402
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1524
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1646
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1768
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            1477,
+            1549
+          ],
+          [
+            1280,
+            1890
+          ]
+        ],
+        "kind": "association"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "title": "Akses akun lintas peran",
+    "svg": "D:\\Download_D\\KeuanganGW\\PASARIN\\output\\diagrams\\02-akses-akun.svg",
+    "actors": [
+      "Pengunjung",
+      "Pengguna akun",
+      "Pembeli terdaftar",
+      "Pemilik UMKM",
+      "Admin"
+    ],
+    "usecases": [
+      {
+        "id": "UC-06",
+        "name": "Daftar akun",
+        "box": [
+          580.0,
+          365.0,
+          440,
+          90
+        ],
+        "cell": "p2-8"
+      },
+      {
+        "id": "UC-07",
+        "name": "Masuk",
+        "box": [
+          280.0,
+          855.0,
+          300,
+          90
+        ],
+        "cell": "p2-10"
+      },
+      {
+        "id": "UC-08",
+        "name": "Keluar",
+        "box": [
+          650.0,
+          855.0,
+          300,
+          90
+        ],
+        "cell": "p2-11"
+      },
+      {
+        "id": "UC-09",
+        "name": "Pulihkan kata sandi",
+        "box": [
+          1000.0,
+          855.0,
+          340,
+          90
+        ],
+        "cell": "p2-12"
+      }
+    ],
+    "relationships": [
+      {
+        "points": [
+          [
+            113,
+            389
+          ],
+          [
+            580,
+            410
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            430,
+            800
+          ],
+          [
+            430,
+            855.0
+          ]
+        ],
+        "kind": "comment"
+      },
+      {
+        "points": [
+          [
+            1170,
+            805
+          ],
+          [
+            1170,
+            855.0
+          ]
+        ],
+        "kind": "comment"
+      },
+      {
+        "points": [
+          [
+            800,
+            1396
+          ],
+          [
+            430,
+            945.0
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            800,
+            1396
+          ],
+          [
+            800,
+            945.0
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            800,
+            1396
+          ],
+          [
+            1170,
+            945.0
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            350,
+            1806
+          ],
+          [
+            660,
+            1610
+          ],
+          [
+            772,
+            1444
+          ]
+        ],
+        "kind": "generalization"
+      },
+      {
+        "points": [
+          [
+            800,
+            1806
+          ],
+          [
+            800,
+            1502
+          ]
+        ],
+        "kind": "generalization"
+      },
+      {
+        "points": [
+          [
+            1250,
+            1806
+          ],
+          [
+            940,
+            1610
+          ],
+          [
+            828,
+            1444
+          ]
+        ],
+        "kind": "generalization"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "title": "Operasional pemilik UMKM",
+    "svg": "D:\\Download_D\\KeuanganGW\\PASARIN\\output\\diagrams\\03-operasional-umkm.svg",
+    "actors": [
+      "Pemilik UMKM"
+    ],
+    "usecases": [
+      {
+        "id": "UC-13",
+        "name": "Daftarkan identitas pemilik",
+        "box": [
+          435.0,
+          316.0,
+          430,
+          88
+        ],
+        "cell": "p3-8"
+      },
+      {
+        "id": "UC-14",
+        "name": "Buka toko",
+        "box": [
+          435.0,
+          486.0,
+          430,
+          88
+        ],
+        "cell": "p3-10"
+      },
+      {
+        "id": "UC-15",
+        "name": "Kelola profil toko",
+        "box": [
+          435.0,
+          656.0,
+          430,
+          88
+        ],
+        "cell": "p3-12"
+      },
+      {
+        "id": "UC-16.1",
+        "name": "Tambah produk",
+        "box": [
+          435.0,
+          826.0,
+          430,
+          88
+        ],
+        "cell": "p3-14"
+      },
+      {
+        "id": "UC-16.2",
+        "name": "Ubah produk",
+        "box": [
+          435.0,
+          996.0,
+          430,
+          88
+        ],
+        "cell": "p3-16"
+      },
+      {
+        "id": "UC-16.3",
+        "name": "Hapus produk",
+        "box": [
+          435.0,
+          1166.0,
+          430,
+          88
+        ],
+        "cell": "p3-18"
+      },
+      {
+        "id": "UC-17",
+        "name": "Lihat dashboard UMKM",
+        "box": [
+          435.0,
+          1336.0,
+          430,
+          88
+        ],
+        "cell": "p3-20"
+      },
+      {
+        "id": "UC-18",
+        "name": "Pantau status verifikasi",
+        "box": [
+          435.0,
+          1506.0,
+          430,
+          88
+        ],
+        "cell": "p3-22"
+      },
+      {
+        "id": "UC-19",
+        "name": "Perbaiki dan ajukan ulang identitas",
+        "box": [
+          435.0,
+          1676.0,
+          430,
+          88
+        ],
+        "cell": "p3-24"
+      },
+      {
+        "id": "UC-13.1",
+        "name": "Unggah KTP",
+        "box": [
+          980.0,
+          316.0,
+          260,
+          88
+        ],
+        "cell": "p3-25"
+      }
+    ],
+    "relationships": [
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            360
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            530
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            700
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            870
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            1040
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            1210
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            1380
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            1550
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            1034
+          ],
+          [
+            435,
+            1720
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            865,
+            360
+          ],
+          [
+            980.0,
+            360
+          ]
+        ],
+        "kind": "include"
+      },
+      {
+        "points": [
+          [
+            1110,
+            404
+          ],
+          [
+            1110,
+            550
+          ]
+        ],
+        "kind": "comment"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "title": "Administrasi dan moderasi",
+    "svg": "D:\\Download_D\\KeuanganGW\\PASARIN\\output\\diagrams\\04-administrasi.svg",
+    "actors": [
+      "Admin"
+    ],
+    "usecases": [
+      {
+        "id": "UC-20",
+        "name": "Lihat dashboard admin",
+        "box": [
+          440.0,
+          304.0,
+          450,
+          92
+        ],
+        "cell": "p4-8"
+      },
+      {
+        "id": "UC-21",
+        "name": "Verifikasi identitas pemilik",
+        "box": [
+          440.0,
+          524.0,
+          450,
+          92
+        ],
+        "cell": "p4-10"
+      },
+      {
+        "id": "UC-22",
+        "name": "Kelola kategori",
+        "box": [
+          440.0,
+          744.0,
+          450,
+          92
+        ],
+        "cell": "p4-12"
+      },
+      {
+        "id": "UC-23",
+        "name": "Moderasi konten",
+        "box": [
+          440.0,
+          964.0,
+          450,
+          92
+        ],
+        "cell": "p4-14"
+      },
+      {
+        "id": "UC-24.1",
+        "name": "Kelola toko",
+        "box": [
+          440.0,
+          1184.0,
+          450,
+          92
+        ],
+        "cell": "p4-16"
+      },
+      {
+        "id": "UC-24.2",
+        "name": "Kelola produk",
+        "box": [
+          440.0,
+          1404.0,
+          450,
+          92
+        ],
+        "cell": "p4-18"
+      },
+      {
+        "id": "UC-25",
+        "name": "Blokir / buka blokir akun pemilik",
+        "box": [
+          440.0,
+          1624.0,
+          450,
+          92
+        ],
+        "cell": "p4-20"
+      }
+    ],
+    "relationships": [
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            350
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            570
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            790
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            1010
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            1230
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            1450
+          ]
+        ],
+        "kind": "association"
+      },
+      {
+        "points": [
+          [
+            128,
+            964
+          ],
+          [
+            440,
+            1670
+          ]
+        ],
+        "kind": "association"
+      }
+    ]
+  }
+]

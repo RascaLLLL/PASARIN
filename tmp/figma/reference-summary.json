@@ -1,0 +1,1534 @@
+{
+  "admin_dashboard_desktop": {
+    "reference": "tmp\\figma\\admin-dashboard-desktop.tsx",
+    "screenshot": "tmp\\figma\\admin-dashboard-desktop.png",
+    "asset_count": 19,
+    "labels": [
+      "RUANG KERJA ADMIN",
+      "Ringkasan",
+      "Verifikasi UMKM",
+      "Kategori",
+      "Moderasi",
+      "Kelola Toko",
+      "Kelola Produk",
+      "Keluar",
+      "Jaga kepercayaan.",
+      "Tinjau dengan adil. Dukung usaha lokal.",
+      "Panduan verifikasi ↗",
+      "© 2026 PASARIN",
+      "Administrasi / Ringkasan",
+      "Admin platform",
+      "Ringkasan Admin",
+      "Selamat datang, Aditya. Ini kabar PASARIN hari ini.",
+      "08 Nov 2026",
+      "Total UMKM",
+      "1.248",
+      "+48 bulan ini",
+      "Produk aktif",
+      "4.286",
+      "+186 bulan ini",
+      "Perlu verifikasi",
+      "24",
+      "8 pengajuan hari ini",
+      "4",
+      "Semua kategori aktif",
+      "UMKM baru untuk ditinjau",
+      "24 menunggu",
+      "TOKO / PEMILIK",
+      "LOKASI",
+      "AKSI",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Sari Wulandari",
+      "Jakarta Selatan",
+      "Tinjau",
+      "LB",
+      "Laras Batik Studio",
+      "Laras Puspita",
+      "Yogyakarta",
+      "AN",
+      "Anyam Nusantara",
+      "Rizky Hidayat",
+      "Solo",
+      "RR",
+      "Ruang Rona",
+      "Dewi Anggraini",
+      "Bandung",
+      "4 dari 24 pengajuan menunggu",
+      "Lihat semua →",
+      "Akses cepat",
+      "24 usaha menunggu ditinjau",
+      "3 laporan perlu perhatian",
+      "Kelola kategori",
+      "4 kategori · 4.286 produk",
+      "Dukung usaha lokal",
+      "1.224 dari 1.248 UMKM sudah terverifikasi. Bantu 24 usaha berikutnya memulai."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgProfile",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />",
+        "preceding_context": "6a4711f.svg\";\nconst imgChevronRight = \"https://www.figma.com/api/mcp/asset/f68b94aa-81d8-4268-b6f0-7836547aef0d.svg\";\nconst imgShapes1 = \"https://www.figma.com/api/mcp/asset/4b86b09c-5c88-4822-8934-4695ce6bb152.svg\";\nconst imgCircleCheck = \"https://www.figma.com/api/mcp/asset/7542f1b0-104e-4777-ae07-ca95d34a219d.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      "
+      },
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "et/7542f1b0-104e-4777-ae07-ca95d34a219d.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgShoppingBagOutlined",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />",
+        "preceding_context": "rofile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgCategories",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCategories} />",
+        "preceding_context": "{imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />\n    </div>\n  );\n}\n\nfunction Categories({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:50\" data-name=\"Categories\">\n      "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "ems-start min-h-[900px] overflow-clip p-[24px] relative self-stretch shrink-0 w-[232px]\" data-node-id=\"84:148629\" data-name=\"Sidebar admin\">\n        <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:148630\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:148631\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "84:148630\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:148631\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n            </div>\n          </div>\n          <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:148632\" data-name=\"Nama PASARIN\">\n            "
+      },
+      {
+        "variable": "imgShieldCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShieldCheck} />",
+        "preceding_context": "Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:148649\">\n              Kategori\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:148650\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155219\" data-name=\"shield-check\">\n              "
+      },
+      {
+        "variable": "imgLogOut",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgLogOut} />",
+        "preceding_context": "Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:148662\">\n              Kelola Produk\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:148663\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155222\" data-name=\"log-out\">\n              "
+      },
+      {
+        "variable": "imgChevronDown",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronDown} />",
+        "preceding_context": "ngkasan\n          </p>\n          <Chat className=\"relative shrink-0 size-[20px]\" />\n          <Profile className=\"relative shrink-0 size-[28px]\" />\n          <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#192c45] text-[14px] whitespace-nowrap\" data-node-id=\"84:148681\">\n            Admin platform\n          </p>\n          <div className=\"relative shrink-0 size-[14px]\" data-node-id=\"84:155225\" data-name=\"chevron-down\">\n            "
+      },
+      {
+        "variable": "imgCalendarDays",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCalendarDays} />",
+        "preceding_context": "-0 text-[#758297] text-[14px] w-full\" data-node-id=\"84:148687\">\n                Selamat datang, Aditya. Ini kabar PASARIN hari ini.\n              </p>\n            </div>\n            <div className=\"bg-white content-stretch flex gap-[8px] items-start overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-[170px]\" data-node-id=\"84:148688\" data-name=\"Tanggal laporan\">\n              <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155228\" data-name=\"calendar-days\">\n                "
+      },
+      {
+        "variable": "imgStore1",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore1} />",
+        "preceding_context": "=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:148693\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#506078] text-[13px]\" data-node-id=\"84:148694\">\n                  Total UMKM\n                </p>\n                <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155231\" data-name=\"store\">\n                  "
+      },
+      {
+        "variable": "imgPackage",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgPackage} />",
+        "preceding_context": "ntent-stretch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:148699\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#506078] text-[13px]\" data-node-id=\"84:148700\">\n                  Produk aktif\n                </p>\n                <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155234\" data-name=\"package\">\n                  "
+      },
+      {
+        "variable": "imgBadgeCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgBadgeCheck} />",
+        "preceding_context": "retch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:148705\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#506078] text-[13px]\" data-node-id=\"84:148706\">\n                  Perlu verifikasi\n                </p>\n                <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155237\" data-name=\"badge-check\">\n                  "
+      },
+      {
+        "variable": "imgShapes",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShapes} />",
+        "preceding_context": "e=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:148711\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#506078] text-[13px]\" data-node-id=\"84:148712\">\n                  Kategori\n                </p>\n                <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155240\" data-name=\"shapes\">\n                  "
+      },
+      {
+        "variable": "imgBadgeCheck1",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgBadgeCheck1} />",
+        "preceding_context": "Name=\"content-stretch flex gap-[12px] items-center overflow-clip py-[8px] relative shrink-0 w-full\" data-node-id=\"84:148815\" data-name=\"Pintasan admin\">\n                  <div className=\"bg-[#eaf2ff] content-stretch flex items-center justify-center overflow-clip relative rounded-[10px] shrink-0 size-[38px]\" data-node-id=\"84:148816\" data-name=\"Ikon pintasan\">\n                    <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155243\" data-name=\"badge-check\">\n                      "
+      },
+      {
+        "variable": "imgChevronRight",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronRight} />",
+        "preceding_context": "92c45] text-[14px] w-full\" data-node-id=\"84:148819\">\n                      Verifikasi UMKM\n                    </p>\n                    <p className=\"font-['Arimo:Regular'] font-normal relative shrink-0 text-[#758297] text-[12px] w-full\" data-node-id=\"84:148820\">\n                      24 usaha menunggu ditinjau\n                    </p>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"84:155246\" data-name=\"chevron-right\">\n                    "
+      },
+      {
+        "variable": "imgShieldCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShieldCheck} />",
+        "preceding_context": "ame=\"content-stretch flex gap-[12px] items-center overflow-clip py-[8px] relative shrink-0 w-full\" data-node-id=\"84:148822\" data-name=\"Pintasan admin\">\n                  <div className=\"bg-[#eaf2ff] content-stretch flex items-center justify-center overflow-clip relative rounded-[10px] shrink-0 size-[38px]\" data-node-id=\"84:148823\" data-name=\"Ikon pintasan\">\n                    <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155249\" data-name=\"shield-check\">\n                      "
+      },
+      {
+        "variable": "imgChevronRight",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronRight} />",
+        "preceding_context": "text-[#192c45] text-[14px] w-full\" data-node-id=\"84:148826\">\n                      Moderasi\n                    </p>\n                    <p className=\"font-['Arimo:Regular'] font-normal relative shrink-0 text-[#758297] text-[12px] w-full\" data-node-id=\"84:148827\">\n                      3 laporan perlu perhatian\n                    </p>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"84:155252\" data-name=\"chevron-right\">\n                    "
+      },
+      {
+        "variable": "imgShapes1",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShapes1} />",
+        "preceding_context": "className=\"content-stretch flex gap-[12px] items-center overflow-clip py-[8px] relative shrink-0 w-full\" data-node-id=\"84:148829\" data-name=\"Pintasan admin\">\n                  <div className=\"bg-[#eaf2ff] content-stretch flex items-center justify-center overflow-clip relative rounded-[10px] shrink-0 size-[38px]\" data-node-id=\"84:148830\" data-name=\"Ikon pintasan\">\n                    <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155255\" data-name=\"shapes\">\n                      "
+      },
+      {
+        "variable": "imgChevronRight",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronRight} />",
+        "preceding_context": "192c45] text-[14px] w-full\" data-node-id=\"84:148833\">\n                      Kelola kategori\n                    </p>\n                    <p className=\"font-['Arimo:Regular'] font-normal relative shrink-0 text-[#758297] text-[12px] w-full\" data-node-id=\"84:148834\">\n                      4 kategori · 4.286 produk\n                    </p>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"84:155258\" data-name=\"chevron-right\">\n                    "
+      },
+      {
+        "variable": "imgCircleCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCircleCheck} />",
+        "preceding_context": "mg alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronRight} />\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-[#e7f4e8] content-stretch flex gap-[12px] items-start overflow-clip p-[16px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:148836\" data-name=\"Umpan balik status\">\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155261\" data-name=\"circle-check\">\n                  "
+      }
+    ]
+  },
+  "catalog_desktop": {
+    "reference": "tmp\\figma\\catalog-desktop.tsx",
+    "screenshot": "tmp\\figma\\catalog-desktop.png",
+    "asset_count": 22,
+    "labels": [
+      "Masuk",
+      "Daftar",
+      "Semua kategori",
+      "Busana",
+      "PILIHAN LOKAL, KEBAHAGIAAN SEHARI-HARI",
+      "Produk bermakna, lebih dekat dari rumah.",
+      "Temukan produk pilihan dari pelaku usaha Indonesia. Usaha kecil, sepenuh hati.",
+      "Jelajahi produk →",
+      "Dukung usaha lokal",
+      "Pesan melalui WhatsApp toko",
+      "Temukan favorit lokalmu",
+      "Jelajahi tanpa masuk. Hubungi penjual langsung untuk bertransaksi.",
+      "Semua produk",
+      "Arabica Gayo",
+      "Biji kopi · Jakarta",
+      "Rp65.000",
+      "Lihat detail",
+      "Coconut Sugar",
+      "Gula kelapa · Banten",
+      "Rp30.000",
+      "Hand Cream",
+      "Krim tangan · Jakarta",
+      "Rp45.000",
+      "Pure Matcha",
+      "Matcha · Jakarta",
+      "Rp13.000",
+      "Kipas Anyaman Bambu",
+      "Kipas bambu · Tasikmalaya",
+      "Rp25.000",
+      "Kain Batik",
+      "Kain batik · Yogyakarta",
+      "Rp35.000",
+      "Crispy Banana",
+      "Keripik pisang · Bandung",
+      "Rp15.000",
+      "Kopi Susu Sahabat",
+      "Kopi susu · Jakarta",
+      "Popcorn Pop",
+      "Popcorn · Jakarta",
+      "Rp20.000",
+      "Singkong Crispy",
+      "Keripik singkong · Bogor",
+      "Kemeja Pria",
+      "Kemeja pria · Jakarta",
+      "Rp105.000",
+      "Kemeja Linen",
+      "Kemeja linen · Jakarta",
+      "Rp150.000",
+      "Jam Tangan Glardo",
+      "Jam tangan · Tangerang",
+      "Rp235.000",
+      "Cardigan",
+      "Kardigan wanita · Bandung",
+      "Rp125.000",
+      "Cloudy Bag",
+      "Tas wanita · Jakarta",
+      "Rp199.000",
+      "Orange Juice",
+      "Jus jeruk botol · Jakarta",
+      "pasarin",
+      "Temukan lokal. Dukung usaha Indonesia.",
+      "© 2026 PASARIN. Untuk usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "-e92aebb5a228.png\";\nconst imgFotoProduk13 = \"https://www.figma.com/api/mcp/asset/0630715f-bbba-414c-afc0-c2f5ae02b726.png\";\nconst imgFotoProduk14 = \"https://www.figma.com/api/mcp/asset/9958965d-855f-4c41-bd5c-3ceb506a9a7b.png\";\nconst imgFotoProduk15 = \"https://www.figma.com/api/mcp/asset/9731cf30-b939-4385-b553-c2e9bbebb297.png\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "m/api/mcp/asset/9731cf30-b939-4385-b553-c2e9bbebb297.png\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgSearch",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgSearch} />",
+        "preceding_context": "/>\n    </div>\n  );\n}\n\ntype SearchBarProps = {\n  className?: string;\n  placeholder?: string;\n  state?: \"Empty\";\n};\n\nfunction SearchBar({ className, placeholder = \"Search\", state = \"Empty\" }: SearchBarProps) {\n  return (\n    <div className={className || \"bg-[#f8f9fe] content-stretch flex gap-[16px] items-end overflow-clip px-[16px] py-[12px] relative rounded-[24px] w-[311px]\"} data-node-id=\"2:22\">\n      <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"2:23\" data-name=\"Search\">\n        "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": " flex gap-[32px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:24844\" data-name=\"Identitas dan akun\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:24845\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:24846\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:24846\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:24847\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgKoleksiProdukLokal",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgKoleksiProdukLokal} />",
+        "preceding_context": "nded-[10px] shrink-0 w-[190px]\" data-node-id=\"84:24882\" data-name=\"Tombol/Utama\">\n              <p className=\"[word-break:break-word] font-['Arimo:Bold'] font-bold leading-[normal] relative shrink-0 text-[16px] text-white whitespace-nowrap\" data-node-id=\"I84:24882;6:788\">\n                Jelajahi produk →\n              </p>\n            </div>\n          </div>\n          <div className=\"flex-[1_0_0] h-[338px] min-w-px relative\" data-node-id=\"84:24890\" data-name=\"Koleksi produk lokal\">\n            "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:24956\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:24957\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:24958\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute h-[211.24%] left-[0.07%] max-w-none top-[-64.55%] w-full\" src={imgFotoProduk1} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:24971\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:24972\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute h-[210.7%] left-0 max-w-none top-[-58.6%] w-full\" src={imgFotoProduk2} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:24985\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:24986\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk3",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk3} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:24999\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25000\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk4",
+        "element": "<img alt=\"\" className=\"absolute h-[174.49%] left-[-0.02%] max-w-none top-0 w-[100.03%]\" src={imgFotoProduk4} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25014\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25015\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk5",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk5} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25028\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25029\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk6",
+        "element": "<img alt=\"\" className=\"absolute h-[117.36%] left-0 max-w-none top-0 w-full\" src={imgFotoProduk6} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25042\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25043\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk7",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk7} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25056\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25057\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk8",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk8} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25070\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25071\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25072\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk9",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk9} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25085\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25086\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk10",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk10} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25099\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25100\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk11",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk11} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25113\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25114\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk12",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk12} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25127\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25128\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25129\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk13",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk13} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25142\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25143\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk14",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk14} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25156\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25157\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk15",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk15} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25170\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:25171\" data-name=\"Foto produk\">\n                "
+      }
+    ]
+  },
+  "catalog_mobile": {
+    "reference": "tmp\\figma\\catalog-mobile.tsx",
+    "screenshot": "tmp\\figma\\catalog-mobile.png",
+    "asset_count": 23,
+    "labels": [
+      "Menu",
+      "Produk lokal, lebih dekat.",
+      "Usaha kecil, sepenuh hati.",
+      "Dukung usaha lokal",
+      "Pesan melalui WhatsApp toko",
+      "Temukan favorit lokalmu",
+      "Jelajahi tanpa masuk. Hubungi penjual langsung untuk bertransaksi.",
+      "Semua produk",
+      "Busana",
+      "Arabica Gayo",
+      "Biji kopi · Jakarta",
+      "Rp65.000",
+      "Lihat detail",
+      "Coconut Sugar",
+      "Gula kelapa · Banten",
+      "Rp30.000",
+      "Hand Cream",
+      "Krim tangan · Jakarta",
+      "Rp45.000",
+      "Pure Matcha",
+      "Matcha · Jakarta",
+      "Rp13.000",
+      "Kipas Anyaman Bambu",
+      "Kipas bambu · Tasikmalaya",
+      "Rp25.000",
+      "Kain Batik",
+      "Kain batik · Yogyakarta",
+      "Rp35.000",
+      "Crispy Banana",
+      "Keripik pisang · Bandung",
+      "Rp15.000",
+      "Kopi Susu Sahabat",
+      "Kopi susu · Jakarta",
+      "Popcorn Pop",
+      "Popcorn · Jakarta",
+      "Rp20.000",
+      "Singkong Crispy",
+      "Keripik singkong · Bogor",
+      "Kemeja Pria",
+      "Kemeja pria · Jakarta",
+      "Rp105.000",
+      "Kemeja Linen",
+      "Kemeja linen · Jakarta",
+      "Rp150.000",
+      "Jam Tangan Glardo",
+      "Jam tangan · Tangerang",
+      "Rp235.000",
+      "Cardigan",
+      "Kardigan wanita · Bandung",
+      "Rp125.000",
+      "Cloudy Bag",
+      "Tas wanita · Jakarta",
+      "Rp199.000",
+      "Orange Juice",
+      "Jus jeruk botol · Jakarta",
+      "pasarin",
+      "Temukan lokal. Dukung usaha Indonesia.",
+      "© 2026 PASARIN. Untuk usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "83d-a3a5-ef08d95a8134.png\";\nconst imgFotoProduk14 = \"https://www.figma.com/api/mcp/asset/1d1dfd3a-d954-4f5e-8a0f-a495f7b185e1.png\";\nconst imgFotoProduk15 = \"https://www.figma.com/api/mcp/asset/7118a8cb-c477-406d-8ab5-b7ed6e11754f.png\";\nconst imgMenu = \"https://www.figma.com/api/mcp/asset/b1e58e7d-1f13-4156-98bc-31f2b0393647.svg\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "m/api/mcp/asset/b1e58e7d-1f13-4156-98bc-31f2b0393647.svg\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgSearch",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgSearch} />",
+        "preceding_context": "/>\n    </div>\n  );\n}\n\ntype SearchBarProps = {\n  className?: string;\n  placeholder?: string;\n  state?: \"Empty\";\n};\n\nfunction SearchBar({ className, placeholder = \"Search\", state = \"Empty\" }: SearchBarProps) {\n  return (\n    <div className={className || \"bg-[#f8f9fe] content-stretch flex gap-[16px] items-end overflow-clip px-[16px] py-[12px] relative rounded-[24px] w-[311px]\"} data-node-id=\"2:22\">\n      <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"2:23\" data-name=\"Search\">\n        "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": " items-center justify-between overflow-clip relative shrink-0 w-full\" data-node-id=\"84:25193\" data-name=\"Identitas dan akun\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:25194\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:25195\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:25195\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[35px] relative shrink-0 w-[105px]\" data-node-id=\"84:25196\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgMenu",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgMenu} />",
+        "preceding_context": "0 w-[105px]\" data-node-id=\"84:25196\" data-name=\"Nama PASARIN\">\n              <img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />\n            </div>\n          </div>\n          <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:25197\" data-name=\"Menu pembeli\">\n            <div className=\"relative shrink-0 size-[22px]\" data-node-id=\"84:27843\" data-name=\"menu\">\n              "
+      },
+      {
+        "variable": "imgKoleksiProdukLokal",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgKoleksiProdukLokal} />",
+        "preceding_context": "lative shrink-0 text-[#1f2024] text-[28px] w-full\" data-node-id=\"84:25209\">\n              Produk lokal, lebih dekat.\n            </p>\n            <p className=\"font-['Arimo:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#71727a] text-[14px] w-full\" data-node-id=\"84:25210\">\n              Usaha kecil, sepenuh hati.\n            </p>\n          </div>\n          <div className=\"relative self-stretch shrink-0 w-[110px]\" data-node-id=\"84:25211\" data-name=\"Koleksi produk lokal\">\n            "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25277\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25278\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25279\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute h-[211.24%] left-[0.07%] max-w-none top-[-64.55%] w-full\" src={imgFotoProduk1} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25292\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25293\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute h-[210.7%] left-0 max-w-none top-[-58.6%] w-full\" src={imgFotoProduk2} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25307\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25308\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk3",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk3} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25321\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25322\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk4",
+        "element": "<img alt=\"\" className=\"absolute h-[174.49%] left-[-0.02%] max-w-none top-0 w-[100.03%]\" src={imgFotoProduk4} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25336\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25337\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk5",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk5} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25350\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25351\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk6",
+        "element": "<img alt=\"\" className=\"absolute h-[117.36%] left-0 max-w-none top-0 w-full\" src={imgFotoProduk6} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25365\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25366\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk7",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk7} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25379\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25380\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk8",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk8} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25393\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25394\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25395\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk9",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk9} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25408\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25409\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk10",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk10} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25422\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25423\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25424\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk11",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk11} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25437\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25438\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk12",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk12} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25451\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25452\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25453\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk13",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk13} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25466\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25467\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk14",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk14} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:25480\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25481\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25482\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk15",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk15} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:25495\" data-name=\"Kartu produk\">\n              <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:25496\" data-name=\"Foto produk\">\n                "
+      }
+    ]
+  },
+  "login_desktop": {
+    "reference": "tmp\\figma\\login-desktop.tsx",
+    "screenshot": "tmp\\figma\\login-desktop.png",
+    "asset_count": 6,
+    "labels": [
+      "PASARIN",
+      "Lebih dekat dengan produk dan usaha lokal Indonesia.",
+      "← Katalog",
+      "Selamat datang kembali",
+      "Masuk ke akun PASARIN Anda.",
+      "Nama pengguna atau email",
+      "Masukkan nama pengguna atau email",
+      "Kata sandi",
+      "Masukkan kata sandi",
+      "Lupa kata sandi?",
+      "Masuk",
+      "atau masuk dengan",
+      "Facebook",
+      "Google",
+      "Belum punya akun?",
+      "Daftar",
+      "Hanya ingin menjelajah? Anda bisa melihat produk dan menghubungi toko tanpa masuk.",
+      "© 2026 PASARIN"
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgLogoPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgLogoPasarin} />",
+        "preceding_context": "k-0 text-[48px] text-white w-[min-content]\" data-node-id=\"84:26643\">\n          PASARIN\n        </p>\n        <div className=\"bg-white content-stretch flex flex-col items-start overflow-clip p-[8px] relative rounded-[20px] shrink-0 size-[116px]\" data-node-id=\"84:26644\" data-name=\"Lambang merek\">\n          <div className=\"relative shrink-0 size-[100px]\" data-node-id=\"84:26645\" data-name=\"Logo PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgKemejaLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[183.42%] left-[-44.77%] max-w-none top-[-50.28%] w-[182.45%]\" src={imgKemejaLokal} />",
+        "preceding_context": "      </div>\n        <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[20px] text-white w-[min-content]\" data-node-id=\"84:26646\">\n          Lebih dekat dengan produk dan usaha lokal Indonesia.\n        </p>\n        <div className=\"absolute h-[310px] left-[205px] top-[360px] w-[245px]\" data-node-id=\"84:26647\" data-name=\"Kemeja lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgGulaKelapa",
+        "element": "<img alt=\"\" className=\"absolute h-[214.96%] left-[-101.95%] max-w-none top-[-64.02%] w-[300.03%]\" src={imgGulaKelapa} />",
+        "preceding_context": ":26647\" data-name=\"Kemeja lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[183.42%] left-[-44.77%] max-w-none top-[-50.28%] w-[182.45%]\" src={imgKemejaLokal} />\n          </div>\n        </div>\n        <div className=\"absolute h-[335px] left-[12px] top-[435px] w-[190px]\" data-node-id=\"84:26648\" data-name=\"Gula kelapa\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgCamilanLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[127.36%] left-[-2.13%] max-w-none top-[-14.43%] w-[104.35%]\" src={imgCamilanLokal} />",
+        "preceding_context": "6648\" data-name=\"Gula kelapa\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[214.96%] left-[-101.95%] max-w-none top-[-64.02%] w-[300.03%]\" src={imgGulaKelapa} />\n          </div>\n        </div>\n        <div className=\"absolute h-[364px] left-[130px] top-[585px] w-[355px]\" data-node-id=\"84:26649\" data-name=\"Camilan lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgMinumanLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[196.5%] left-[-98.62%] max-w-none top-[-54.16%] w-[292.65%]\" src={imgMinumanLokal} />",
+        "preceding_context": "649\" data-name=\"Camilan lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[127.36%] left-[-2.13%] max-w-none top-[-14.43%] w-[104.35%]\" src={imgCamilanLokal} />\n          </div>\n        </div>\n        <div className=\"absolute h-[298px] left-[25px] top-[675px] w-[160px]\" data-node-id=\"84:26650\" data-name=\"Minuman lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "ame=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:26688;143:1435\">\n                        <p className=\"leading-[20px]\">Masukkan kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:26688;143:1437\" data-name=\"Icon\">\n                    "
+      }
+    ]
+  },
+  "login_mobile": {
+    "reference": "tmp\\figma\\login-mobile.tsx",
+    "screenshot": "tmp\\figma\\login-mobile.png",
+    "asset_count": 3,
+    "labels": [
+      "← Katalog",
+      "Selamat datang kembali",
+      "Masuk ke akun PASARIN Anda.",
+      "Nama pengguna atau email",
+      "Masukkan nama pengguna atau email",
+      "Kata sandi",
+      "Masukkan kata sandi",
+      "Lupa kata sandi?",
+      "Masuk",
+      "atau masuk dengan",
+      "Facebook",
+      "Google",
+      "Belum punya akun?",
+      "Daftar",
+      "Hanya ingin menjelajah? Anda bisa melihat produk dan menghubungi toko tanpa masuk.",
+      "© 2026 PASARIN"
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "tems-center justify-between overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26754\" data-name=\"Navigasi autentikasi\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:26755\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:26756\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:26756\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[35px] relative shrink-0 w-[105px]\" data-node-id=\"84:26757\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "ame=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:26793;143:1435\">\n                        <p className=\"leading-[20px]\">Masukkan kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:26793;143:1437\" data-name=\"Icon\">\n                    "
+      }
+    ]
+  },
+  "owner_dashboard_desktop": {
+    "reference": "tmp\\figma\\owner-dashboard-desktop.tsx",
+    "screenshot": "tmp\\figma\\owner-dashboard-desktop.png",
+    "asset_count": 18,
+    "labels": [
+      "RUANG KERJA UMKM",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Jakarta Selatan",
+      "Dashboard",
+      "Produk Saya",
+      "Profil Toko",
+      "Status UMKM",
+      "Lihat Toko ↗",
+      "Keluar / Logout",
+      "Butuh bantuan?",
+      "Kami siap membantu usaha Anda berkembang.",
+      "Pusat Bantuan ↗",
+      "© 2026 PASARIN",
+      "SW",
+      "Sari Wulandari",
+      "Selamat berjualan, Sari.",
+      "Ini kabar terbaru Dikala Senja Cafe hari ini.",
+      "UMKM disetujui · Dikala Senja Cafe aktif",
+      "Total produk",
+      "4",
+      "4 aktif · 0 draf",
+      "Kunjungan toko",
+      "1.284",
+      "↑ 18,6% dari bulan lalu",
+      "Pertanyaan produk",
+      "86",
+      "↑ 12,0% dari bulan lalu",
+      "+ Tambah Produk",
+      "Produk",
+      "Harga",
+      "Kategori",
+      "Status",
+      "Aksi",
+      "Arabica Gayo",
+      "PSR-001",
+      "Rp65.000",
+      "Aktif",
+      "Edit",
+      "Hapus",
+      "Pure Matcha",
+      "PSR-002",
+      "Rp13.000",
+      "Kopi Susu Sahabat",
+      "PSR-003",
+      "Rp15.000",
+      "Orange Juice",
+      "PSR-004"
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "f-b9cb-29873cb1f217.svg\";\nconst imgShoppingBag = \"https://www.figma.com/api/mcp/asset/23136ebe-4da7-4f91-9cf7-ed054faf9b42.svg\";\nconst imgStore1 = \"https://www.figma.com/api/mcp/asset/2d042050-6622-476b-94c2-40f5026e7ceb.svg\";\nconst imgMessageCircle = \"https://www.figma.com/api/mcp/asset/c6085f1c-76f5-4ef2-9878-032436cc6b91.svg\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "m/api/mcp/asset/c6085f1c-76f5-4ef2-9878-032436cc6b91.svg\";\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgShoppingBagOutlined",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />",
+        "preceding_context": "hat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />\n    </div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      "
+      },
+      {
+        "variable": "imgCategories",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCategories} />",
+        "preceding_context": "}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Categories({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:50\" data-name=\"Categories\">\n      "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "] items-start min-h-[900px] overflow-clip p-[24px] relative self-stretch shrink-0 w-[232px]\" data-node-id=\"84:89847\" data-name=\"Sidebar UMKM\">\n        <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:89848\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:89849\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "d=\"84:89848\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:89849\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n            </div>\n          </div>\n          <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:89850\" data-name=\"Nama PASARIN\">\n            "
+      },
+      {
+        "variable": "imgShieldCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShieldCheck} />",
+        "preceding_context": "gular'] font-normal leading-[1.5] min-w-px relative text-[#1f2024] text-[14px] text-left\" data-node-id=\"84:89873\">\n              Profil Toko\n            </p>\n          </a>\n          <div className=\"bg-white content-stretch flex gap-[12px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:89874\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95714\" data-name=\"shield-check\">\n              "
+      },
+      {
+        "variable": "imgLogOut",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgLogOut} />",
+        "preceding_context": "=\"[word-break:break-word] font-['Arimo:Bold'] font-bold leading-[normal] relative shrink-0 text-[#006ffd] text-[14px] whitespace-nowrap\" data-node-id=\"I84:89878;6:885\">\n            Lihat Toko ↗\n          </p>\n        </div>\n        <div className=\"content-stretch flex gap-[10px] h-[44px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:89886\" data-name=\"Logout\">\n          <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95717\" data-name=\"log-out\">\n            "
+      },
+      {
+        "variable": "imgChevronDown",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronDown} />",
+        "preceding_context": "ve shrink-0 text-[#006ffd] text-[13px] whitespace-nowrap\" data-node-id=\"84:89902\">\n                SW\n              </p>\n            </div>\n            <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#1f2024] text-[14px] whitespace-nowrap\" data-node-id=\"84:89903\">\n              Sari Wulandari\n            </p>\n            <div className=\"relative shrink-0 size-[14px]\" data-node-id=\"84:95720\" data-name=\"chevron-down\">\n              "
+      },
+      {
+        "variable": "imgCircleCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCircleCheck} />",
+        "preceding_context": " relative shrink-0 text-[#006ffd] text-[14px] whitespace-nowrap\" data-node-id=\"I84:89910;6:885\">\n                Lihat Toko ↗\n              </p>\n            </div>\n          </div>\n          <div className=\"bg-[#e7f4e8] content-stretch flex gap-[12px] items-start overflow-clip p-[16px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:89918\" data-name=\"Umpan balik\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95723\" data-name=\"circle-check\">\n              "
+      },
+      {
+        "variable": "imgX",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgX} />",
+        "preceding_context": "tch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative\" data-node-id=\"84:89920\" data-name=\"Pesan\">\n              <p className=\"[word-break:break-word] font-['Arimo:Bold'] font-bold leading-[1.5] relative shrink-0 text-[#298267] text-[14px] w-full\" data-node-id=\"84:89921\">\n                UMKM disetujui · Dikala Senja Cafe aktif\n              </p>\n            </div>\n            <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"84:95726\" data-name=\"x\">\n              "
+      },
+      {
+        "variable": "imgShoppingBag",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBag} />",
+        "preceding_context": "nt-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:89925\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#71727a] text-[14px]\" data-node-id=\"84:89926\">\n                  Total produk\n                </p>\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95729\" data-name=\"shopping-bag\">\n                  "
+      },
+      {
+        "variable": "imgStore1",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore1} />",
+        "preceding_context": "content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:89931\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#71727a] text-[14px]\" data-node-id=\"84:89932\">\n                  Kunjungan toko\n                </p>\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95732\" data-name=\"store\">\n                  "
+      },
+      {
+        "variable": "imgMessageCircle",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgMessageCircle} />",
+        "preceding_context": "tch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:89937\" data-name=\"Label metrik\">\n                <p className=\"[word-break:break-word] flex-[1_0_0] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#71727a] text-[14px]\" data-node-id=\"84:89938\">\n                  Pertanyaan produk\n                </p>\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95735\" data-name=\"message-circle\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[10px] size-full\" src={imgFotoProduk} />",
+        "preceding_context": "order-b border-solid content-stretch flex gap-[20px] h-[60px] items-center overflow-clip px-[8px] relative shrink-0 w-full\" data-node-id=\"84:89964\" data-name=\"Baris produk\">\n                <div className=\"content-stretch flex flex-[1_0_0] gap-[12px] items-center min-w-px overflow-clip relative\" data-node-id=\"84:89965\" data-name=\"Identitas produk\">\n                  <div className=\"relative rounded-[10px] shrink-0 size-[44px]\" data-node-id=\"84:89966\" data-name=\"Foto produk\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk1} />",
+        "preceding_context": "hrink-0 w-full\" data-node-id=\"84:89980\" data-name=\"Baris produk\">\n                <div className=\"content-stretch flex flex-[1_0_0] gap-[12px] items-center min-w-px overflow-clip relative\" data-node-id=\"84:89981\" data-name=\"Identitas produk\">\n                  <div className=\"relative rounded-[10px] shrink-0 size-[44px]\" data-node-id=\"84:89982\" data-name=\"Foto produk\">\n                    <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]\">\n                      "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[10px] size-full\" src={imgFotoProduk2} />",
+        "preceding_context": "order-b border-solid content-stretch flex gap-[20px] h-[60px] items-center overflow-clip px-[8px] relative shrink-0 w-full\" data-node-id=\"84:89996\" data-name=\"Baris produk\">\n                <div className=\"content-stretch flex flex-[1_0_0] gap-[12px] items-center min-w-px overflow-clip relative\" data-node-id=\"84:89997\" data-name=\"Identitas produk\">\n                  <div className=\"relative rounded-[10px] shrink-0 size-[44px]\" data-node-id=\"84:89998\" data-name=\"Foto produk\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk3",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[10px] size-full\" src={imgFotoProduk3} />",
+        "preceding_context": "order-b border-solid content-stretch flex gap-[20px] h-[60px] items-center overflow-clip px-[8px] relative shrink-0 w-full\" data-node-id=\"84:90012\" data-name=\"Baris produk\">\n                <div className=\"content-stretch flex flex-[1_0_0] gap-[12px] items-center min-w-px overflow-clip relative\" data-node-id=\"84:90013\" data-name=\"Identitas produk\">\n                  <div className=\"relative rounded-[10px] shrink-0 size-[44px]\" data-node-id=\"84:90014\" data-name=\"Foto produk\">\n                    "
+      }
+    ]
+  },
+  "owner_profile_desktop": {
+    "reference": "tmp\\figma\\owner-profile-desktop.tsx",
+    "screenshot": null,
+    "asset_count": 13,
+    "labels": [
+      "RUANG KERJA UMKM",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Jakarta Selatan",
+      "Dashboard",
+      "Produk Saya",
+      "Profil Toko",
+      "Status UMKM",
+      "Lihat Toko ↗",
+      "Keluar / Logout",
+      "Butuh bantuan?",
+      "Kami siap membantu usaha Anda berkembang.",
+      "Pusat Bantuan ↗",
+      "© 2026 PASARIN",
+      "SW",
+      "Sari Wulandari",
+      "← Kembali",
+      "Ceritakan identitas toko Anda dan bangun kepercayaan pembeli.",
+      "Informasi Toko",
+      "Bantu pembeli mengenal toko Anda lebih dekat.",
+      "Nama toko *",
+      "Kategori toko *",
+      "Deskripsi toko",
+      "Alamat toko *",
+      "Nama pemilik *",
+      "Nomor WhatsApp *",
+      "+62 812 3456 7890",
+      "Gunakan nomor aktif. Pembeli menghubungi toko melalui nomor ini.",
+      "Tampilan Toko",
+      "Logo toko",
+      "Ganti Logo",
+      "JPG/PNG · Maks. 2 MB · Rasio 1:1",
+      "Banner toko",
+      "Ganti Banner",
+      "JPG/PNG · Maks. 5 MB · 1200 × 400 px",
+      "Perubahan tampil setelah disimpan.",
+      "Batal",
+      "Simpan Perubahan",
+      "Pratinjau Toko",
+      "UMKM terverifikasi",
+      "Jakarta Selatan, DKI Jakarta",
+      "Dari pahit manisnya kopi, keharmonisan matcha, hingga kesegaran jus alami, kami menghadirkan karakter bahan alam dalam setiap tegukan harianmu.",
+      "★ 4,9",
+      "48 ulasan",
+      "4 produk",
+      "Aktif",
+      "2024",
+      "Bergabung",
+      "Jl. Sudirman No. 28, Jakarta Selatan, DKI Jakarta 55153",
+      "Toko lengkap, pembeli lebih yakin",
+      "Logo yang jelas dan nomor WhatsApp aktif membantu pembeli mengenali toko Anda."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": " min-w-px relative\" data-node-id=\"21:260\" data-name=\"Text\">\n            <div className=\"[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#1f2024] text-[14px] whitespace-nowrap\" data-node-id=\"21:261\">\n              <p className=\"leading-[20px]\">{content}</p>\n            </div>\n          </div>\n        </div>\n        <div className=\"relative shrink-0 size-[12px]\" data-node-id=\"21:263\" data-name=\"Icon\">\n          "
+      },
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "mgIcon} />\n        </div>\n      </div>\n      {showSupportText && (\n        <p className=\"[word-break:break-word] font-['Inter:Regular'] font-normal leading-[14px] not-italic relative shrink-0 text-[#8f9098] text-[10px] tracking-[0.15px] w-full\" data-node-id=\"21:264\">\n          {supportText}\n        </p>\n      )}\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "     {supportText}\n        </p>\n      )}\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgShoppingBagOutlined",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />",
+        "preceding_context": "hat} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />\n    </div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      "
+      },
+      {
+        "variable": "imgCategories",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCategories} />",
+        "preceding_context": "}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Categories({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:50\" data-name=\"Categories\">\n      "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "] items-start min-h-[900px] overflow-clip p-[24px] relative self-stretch shrink-0 w-[232px]\" data-node-id=\"84:93339\" data-name=\"Sidebar UMKM\">\n        <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:93340\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:93341\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "d=\"84:93340\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:93341\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n            </div>\n          </div>\n          <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:93342\" data-name=\"Nama PASARIN\">\n            "
+      },
+      {
+        "variable": "imgShieldCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShieldCheck} />",
+        "preceding_context": "nt-['Arimo:Bold'] font-bold leading-[1.5] min-w-px relative text-[#006ffd] text-[14px]\" data-node-id=\"84:93365\">\n              Profil Toko\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[12px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:93366\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95966\" data-name=\"shield-check\">\n              "
+      },
+      {
+        "variable": "imgLogOut",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgLogOut} />",
+        "preceding_context": "=\"[word-break:break-word] font-['Arimo:Bold'] font-bold leading-[normal] relative shrink-0 text-[#006ffd] text-[14px] whitespace-nowrap\" data-node-id=\"I84:93370;6:885\">\n            Lihat Toko ↗\n          </p>\n        </div>\n        <div className=\"content-stretch flex gap-[10px] h-[44px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:93378\" data-name=\"Logout\">\n          <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95969\" data-name=\"log-out\">\n            "
+      },
+      {
+        "variable": "imgChevronDown",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronDown} />",
+        "preceding_context": "ve shrink-0 text-[#006ffd] text-[13px] whitespace-nowrap\" data-node-id=\"84:93394\">\n                SW\n              </p>\n            </div>\n            <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#1f2024] text-[14px] whitespace-nowrap\" data-node-id=\"84:93395\">\n              Sari Wulandari\n            </p>\n            <div className=\"relative shrink-0 size-[14px]\" data-node-id=\"84:95972\" data-name=\"chevron-down\">\n              "
+      },
+      {
+        "variable": "imgBannerToko",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgBannerToko} />",
+        "preceding_context": "[1.5] relative shrink-0 text-[#1f2024] text-[14px] w-full\" data-node-id=\"84:93570\">\n                    Banner toko\n                  </p>\n                  <div className=\"bg-[#f8f9fe] content-stretch flex flex-col gap-[12px] items-start overflow-clip pb-[16px] relative rounded-[12px] shrink-0 w-full\" data-node-id=\"84:93571\" data-name=\"Banner saat ini\">\n                    <div className=\"h-[106px] relative shrink-0 w-full\" data-node-id=\"84:93572\" data-name=\"Banner toko\">\n                      "
+      },
+      {
+        "variable": "imgBannerToko",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgBannerToko} />",
+        "preceding_context": "w-clip p-[22px] relative shrink-0 w-full\" data-node-id=\"84:93604\" data-name=\"Judul pratinjau\">\n                  <p className=\"[word-break:break-word] font-['Inter:Bold'] font-bold leading-[1.2] not-italic relative shrink-0 text-[#1f2024] text-[18px] w-full\" data-node-id=\"84:93605\">\n                    Pratinjau Toko\n                  </p>\n                </div>\n                <div className=\"h-[142px] relative shrink-0 w-full\" data-node-id=\"84:93606\" data-name=\"Banner toko\">\n                  "
+      },
+      {
+        "variable": "imgInfo",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgInfo} />",
+        "preceding_context": "tespace-nowrap\" data-node-id=\"I84:93624;6:788\">\n                      Lihat Toko ↗\n                    </p>\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-[#eaf2ff] content-stretch flex gap-[12px] items-start overflow-clip p-[16px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:93632\" data-name=\"Umpan balik\">\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:95975\" data-name=\"info\">\n                  "
+      },
+      {
+        "variable": "imgX",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgX} />",
+        "preceding_context": "=\"84:93635\">\n                    Toko lengkap, pembeli lebih yakin\n                  </p>\n                  <p className=\"font-['Arimo:Regular'] font-normal relative shrink-0 text-[#1f2024] text-[13px] w-full\" data-node-id=\"84:93636\">\n                    Logo yang jelas dan nomor WhatsApp aktif membantu pembeli mengenali toko Anda.\n                  </p>\n                </div>\n                <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"84:95978\" data-name=\"x\">\n                  "
+      }
+    ]
+  },
+  "product_desktop": {
+    "reference": "tmp\\figma\\product-desktop.tsx",
+    "screenshot": "tmp\\figma\\product-desktop.png",
+    "asset_count": 10,
+    "labels": [
+      "Masuk",
+      "Daftar",
+      "Semua kategori",
+      "Busana",
+      "Foto utama · 1 dari 4 foto",
+      "Arabica Gayo",
+      "Rp65.000",
+      "Tentang produk",
+      "Lahir dari tanah pegunungan tinggi Aceh Tengah, Arabica Gayo menghadirkan cita rasa klasik yang kaya, seimbang, dan berkarakter kuat. Ditanam secara organik di atas ketinggian 1.200–1.500 mdpl, setiap bijinya memetik nutrisi alami tanah vulkanis untuk menciptakan cangkir kopi yang intens namun tetap lembut di mulut.",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Sari Wulandari · Jakarta Selatan",
+      "Lihat Toko",
+      "Hubungi melalui WhatsApp",
+      "+62 812 3456 7890 · Tanyakan ketersediaan dan pemesanan langsung kepada toko. Tidak perlu masuk.",
+      "Lainnya dari Dikala Senja Cafe",
+      "Pure Matcha",
+      "Matcha · Jakarta",
+      "Rp13.000",
+      "Lihat detail",
+      "Kopi Susu Sahabat",
+      "Kopi susu · Jakarta",
+      "Rp15.000",
+      "Orange Juice",
+      "Jus jeruk botol · Jakarta",
+      "pasarin",
+      "Temukan lokal. Dukung usaha Indonesia.",
+      "© 2026 PASARIN. Untuk usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgSearch",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgSearch} />",
+        "preceding_context": "a-831aff313597.png\";\n\ntype SearchBarProps = {\n  className?: string;\n  placeholder?: string;\n  state?: \"Empty\";\n};\n\nfunction SearchBar({ className, placeholder = \"Search\", state = \"Empty\" }: SearchBarProps) {\n  return (\n    <div className={className || \"bg-[#f8f9fe] content-stretch flex gap-[16px] items-end overflow-clip px-[16px] py-[12px] relative rounded-[24px] w-[311px]\"} data-node-id=\"2:22\">\n      <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"2:23\" data-name=\"Search\">\n        "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": " flex gap-[32px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:25980\" data-name=\"Identitas dan akun\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:25981\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:25982\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:25982\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:25983\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgFotoUtamaArabicaGayo",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[18px] size-full\" src={imgFotoUtamaArabicaGayo} />",
+        "preceding_context": "ca Gayo`}</p>\n        <div className=\"content-stretch flex gap-[48px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26014\" data-name=\"Detail produk\">\n          <div className=\"content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[592px]\" data-node-id=\"84:26015\" data-name=\"Galeri produk\">\n            <div className=\"h-[480px] relative rounded-[18px] shrink-0 w-full\" data-node-id=\"84:26016\" data-name=\"Foto utama Arabica Gayo\">\n              "
+      },
+      {
+        "variable": "imgFotoUtamaArabicaGayo",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[7px] size-full\" src={imgFotoUtamaArabicaGayo} />",
+        "preceding_context": "lex gap-[12px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26017\" data-name=\"Thumbnail galeri\">\n              <div className=\"border-2 border-[#006ffd] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[104px]\" data-node-id=\"84:26018\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26019\" data-name=\"Foto galeri\">\n                  "
+      },
+      {
+        "variable": "imgFotoGaleri",
+        "element": "<img alt=\"\" className=\"absolute h-full left-[0.71%] max-w-none top-[-26.14%] w-[100.32%]\" src={imgFotoGaleri} />",
+        "preceding_context": "           </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[104px]\" data-node-id=\"84:26020\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26021\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoGaleri1",
+        "element": "<img alt=\"\" className=\"absolute h-full left-[0.37%] max-w-none top-[-24.71%] w-[100.32%]\" src={imgFotoGaleri1} />",
+        "preceding_context": "           </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[104px]\" data-node-id=\"84:26022\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26023\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoGaleri2",
+        "element": "<img alt=\"\" className=\"absolute left-[-0.09%] max-w-none size-full top-[-25.42%]\" src={imgFotoGaleri2} />",
+        "preceding_context": "           </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[104px]\" data-node-id=\"84:26024\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26025\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk} />",
+        "preceding_context": " <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26070\" data-name=\"Kartu produk\">\n                <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26071\" data-name=\"Foto produk\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk1} />",
+        "preceding_context": "    </p>\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26084\" data-name=\"Kartu produk\">\n                <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26085\" data-name=\"Foto produk\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk2} />",
+        "preceding_context": "    </p>\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26098\" data-name=\"Kartu produk\">\n                <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26099\" data-name=\"Foto produk\">\n                  "
+      }
+    ]
+  },
+  "product_mobile": {
+    "reference": "tmp\\figma\\product-mobile.tsx",
+    "screenshot": "tmp\\figma\\product-mobile.png",
+    "asset_count": 11,
+    "labels": [
+      "Menu",
+      "Foto utama · 1 dari 4 foto",
+      "Arabica Gayo",
+      "Rp65.000",
+      "Tentang produk",
+      "Lahir dari tanah pegunungan tinggi Aceh Tengah, Arabica Gayo menghadirkan cita rasa klasik yang kaya, seimbang, dan berkarakter kuat. Ditanam secara organik di atas ketinggian 1.200–1.500 mdpl, setiap bijinya memetik nutrisi alami tanah vulkanis untuk menciptakan cangkir kopi yang intens namun tetap lembut di mulut.",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Sari Wulandari · Jakarta Selatan",
+      "Lihat Toko",
+      "Hubungi melalui WhatsApp",
+      "+62 812 3456 7890 · Tanyakan ketersediaan dan pemesanan langsung kepada toko. Tidak perlu masuk.",
+      "Lainnya dari Dikala Senja Cafe",
+      "Pure Matcha",
+      "Matcha · Jakarta",
+      "Rp13.000",
+      "Lihat detail",
+      "Kopi Susu Sahabat",
+      "Kopi susu · Jakarta",
+      "Rp15.000",
+      "Orange Juice",
+      "Jus jeruk botol · Jakarta",
+      "pasarin",
+      "Temukan lokal. Dukung usaha Indonesia.",
+      "© 2026 PASARIN. Untuk usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgSearch",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgSearch} />",
+        "preceding_context": "d-2fa49660736b.svg\";\n\ntype SearchBarProps = {\n  className?: string;\n  placeholder?: string;\n  state?: \"Empty\";\n};\n\nfunction SearchBar({ className, placeholder = \"Search\", state = \"Empty\" }: SearchBarProps) {\n  return (\n    <div className={className || \"bg-[#f8f9fe] content-stretch flex gap-[16px] items-end overflow-clip px-[16px] py-[12px] relative rounded-[24px] w-[311px]\"} data-node-id=\"2:22\">\n      <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"2:23\" data-name=\"Search\">\n        "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": " items-center justify-between overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26122\" data-name=\"Identitas dan akun\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:26123\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:26124\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:26124\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[35px] relative shrink-0 w-[105px]\" data-node-id=\"84:26125\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgMenu",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgMenu} />",
+        "preceding_context": "0 w-[105px]\" data-node-id=\"84:26125\" data-name=\"Nama PASARIN\">\n              <img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />\n            </div>\n          </div>\n          <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:26126\" data-name=\"Menu pembeli\">\n            <div className=\"relative shrink-0 size-[22px]\" data-node-id=\"84:27858\" data-name=\"menu\">\n              "
+      },
+      {
+        "variable": "imgFotoUtamaArabicaGayo",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[18px] size-full\" src={imgFotoUtamaArabicaGayo} />",
+        "preceding_context": "o`}</p>\n        <div className=\"content-stretch flex flex-col gap-[28px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26137\" data-name=\"Detail produk\">\n          <div className=\"content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26138\" data-name=\"Galeri produk\">\n            <div className=\"h-[320px] relative rounded-[18px] shrink-0 w-full\" data-node-id=\"84:26139\" data-name=\"Foto utama Arabica Gayo\">\n              "
+      },
+      {
+        "variable": "imgFotoUtamaArabicaGayo",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[7px] size-full\" src={imgFotoUtamaArabicaGayo} />",
+        "preceding_context": "flex gap-[12px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26140\" data-name=\"Thumbnail galeri\">\n              <div className=\"border-2 border-[#006ffd] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[78px]\" data-node-id=\"84:26141\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26142\" data-name=\"Foto galeri\">\n                  "
+      },
+      {
+        "variable": "imgFotoGaleri",
+        "element": "<img alt=\"\" className=\"absolute h-full left-[0.71%] max-w-none top-[-26.14%] w-[100.32%]\" src={imgFotoGaleri} />",
+        "preceding_context": "            </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[78px]\" data-node-id=\"84:26143\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26144\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoGaleri1",
+        "element": "<img alt=\"\" className=\"absolute h-full left-[0.37%] max-w-none top-[-24.71%] w-[100.32%]\" src={imgFotoGaleri1} />",
+        "preceding_context": "            </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[78px]\" data-node-id=\"84:26145\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26146\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoGaleri2",
+        "element": "<img alt=\"\" className=\"absolute left-[-0.09%] max-w-none size-full top-[-25.42%]\" src={imgFotoGaleri2} />",
+        "preceding_context": "            </div>\n              <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip p-[3px] relative rounded-[10px] shrink-0 size-[78px]\" data-node-id=\"84:26147\" data-name=\"Thumbnail\">\n                <div className=\"flex-[1_0_0] min-h-px relative rounded-[7px] w-full\" data-node-id=\"84:26148\" data-name=\"Foto galeri\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none rounded-[7px]\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk} />",
+        "preceding_context": " <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26193\" data-name=\"Kartu produk\">\n                <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:26194\" data-name=\"Foto produk\">\n                  <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                    "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk1} />",
+        "preceding_context": "    </p>\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26207\" data-name=\"Kartu produk\">\n                <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:26208\" data-name=\"Foto produk\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk2} />",
+        "preceding_context": "t relative shrink-0 w-full\" data-node-id=\"84:26221\" data-name=\"Baris produk\">\n              <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26222\" data-name=\"Kartu produk\">\n                <div className=\"h-[150px] relative shrink-0 w-full\" data-node-id=\"84:26223\" data-name=\"Foto produk\">\n                  "
+      }
+    ]
+  },
+  "report_detail_desktop": {
+    "reference": "tmp\\figma\\report-detail-desktop.tsx",
+    "screenshot": null,
+    "asset_count": 12,
+    "labels": [
+      "RUANG KERJA ADMIN",
+      "Ringkasan",
+      "Verifikasi UMKM",
+      "Kategori",
+      "Moderasi",
+      "Kelola Toko",
+      "Kelola Produk",
+      "Keluar",
+      "Jaga kepercayaan.",
+      "Tinjau dengan adil. Dukung usaha lokal.",
+      "Panduan verifikasi ↗",
+      "© 2026 PASARIN",
+      "Administrasi / Moderasi",
+      "Admin platform",
+      "← Kembali ke daftar laporan",
+      "Detail Laporan",
+      "LPR-001 · 08 Nov 2026, 09.12 WIB · Data contoh",
+      "Diperiksa",
+      "Konten yang dilaporkan",
+      "Arabica Gayo",
+      "Rp65.000",
+      "Lahir dari tanah pegunungan tinggi Aceh Tengah, Arabica Gayo menghadirkan cita rasa klasik yang kaya, seimbang, dan berkarakter kuat. Ditanam secara organik di atas ketinggian 1.200–1.500 mdpl, setiap bijinya memetik nutrisi alami tanah vulkanis untuk menciptakan cangkir kopi yang intens namun tetap lembut di mulut.",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Tentukan keputusan",
+      "Periksa konten dan alasan laporan sebelum mengambil keputusan. Setiap keputusan memerlukan alasan.",
+      "Pertahankan",
+      "Sembunyikan",
+      "Identitas pelapor",
+      "Identitas tidak tersedia",
+      "Placeholder pelapor — nama, foto, dan kontak tidak tersedia pada data contoh.",
+      "Diterima",
+      "08 Nov 2026, 09.12 WIB",
+      "Alasan laporan",
+      "Data contoh",
+      "Konten promosi tidak sesuai kategori.",
+      "“Mohon ditinjau kesesuaian konten dengan kategori produk.”",
+      "Catatan simulasi, bukan pernyataan pelanggaran nyata.",
+      "Dampak keputusan",
+      "Pertahankan: tetap tampil. Sembunyikan: tidak tampil di katalog, dapat ditampilkan kembali.",
+      "Tutup ×",
+      "© 2026 PASARIN · Mendukung usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgProfile",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />",
+        "preceding_context": "43c7-adcb-29248a9ae613.svg\";\nconst imgIkon1 = \"https://www.figma.com/api/mcp/asset/caeb1bb4-23ee-4b3f-b6d9-dd2d55e4bb81.svg\";\nconst imgIkon2 = \"https://www.figma.com/api/mcp/asset/23c7b172-ce34-4518-a841-16f524541e98.svg\";\nconst imgIkon3 = \"https://www.figma.com/api/mcp/asset/04576606-6f31-44c8-a830-c5f9b5f607a5.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      "
+      },
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "et/04576606-6f31-44c8-a830-c5f9b5f607a5.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgShoppingBagOutlined",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />",
+        "preceding_context": "rofile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgCategories",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCategories} />",
+        "preceding_context": "{imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />\n    </div>\n  );\n}\n\nfunction Categories({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:50\" data-name=\"Categories\">\n      "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "ems-start min-h-[900px] overflow-clip p-[24px] relative self-stretch shrink-0 w-[232px]\" data-node-id=\"84:184029\" data-name=\"Sidebar admin\">\n        <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:184030\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:184031\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "84:184030\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:184031\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n            </div>\n          </div>\n          <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:184032\" data-name=\"Nama PASARIN\">\n            "
+      },
+      {
+        "variable": "imgIkon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIkon} />",
+        "preceding_context": "'Arimo:Regular'] font-normal leading-[normal] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:184049\">\n              Kategori\n            </p>\n          </div>\n          <div className=\"bg-[#eaf2ff] content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:184050\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:184051\" data-name=\"Ikon\">\n              "
+      },
+      {
+        "variable": "imgIkon1",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIkon1} />",
+        "preceding_context": "Arimo:Regular'] font-normal leading-[normal] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:184063\">\n              Kelola Produk\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:184064\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:184065\" data-name=\"Ikon\">\n              "
+      },
+      {
+        "variable": "imgIkon2",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIkon2} />",
+        "preceding_context": "rasi / Moderasi\n          </p>\n          <Chat className=\"relative shrink-0 size-[20px]\" />\n          <Profile className=\"relative shrink-0 size-[28px]\" />\n          <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#192c45] text-[14px] whitespace-nowrap\" data-node-id=\"84:184083\">\n            Admin platform\n          </p>\n          <div className=\"relative shrink-0 size-[14px]\" data-node-id=\"84:184084\" data-name=\"Ikon\">\n            "
+      },
+      {
+        "variable": "imgFotoArabicaGayo",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full\" src={imgFotoArabicaGayo} />",
+        "preceding_context": "        <div className=\"content-stretch flex gap-[20px] items-start overflow-clip relative shrink-0 w-full\" data-node-id=\"84:184107\" data-name=\"Detail konten\">\n                    <div className=\"content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-[230px]\" data-node-id=\"84:184108\" data-name=\"Foto konten\">\n                      <div className=\"h-[230px] relative rounded-[12px] shrink-0 w-full\" data-node-id=\"84:184109\" data-name=\"Foto Arabica Gayo\">\n                        "
+      },
+      {
+        "variable": "imgIkon3",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIkon3} />",
+        "preceding_context": "-[min-content]\" data-node-id=\"84:184164\">\n                    Catatan simulasi, bukan pernyataan pelanggaran nyata.\n                  </p>\n                </div>\n                <div className=\"bg-[#eaf2ff] content-stretch flex gap-[12px] items-start overflow-clip p-[16px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:184165\" data-name=\"Umpan balik status\">\n                  <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:184166\" data-name=\"Ikon\">\n                    "
+      }
+    ]
+  },
+  "signup_desktop": {
+    "reference": "tmp\\figma\\signup-desktop.tsx",
+    "screenshot": "tmp\\figma\\signup-desktop.png",
+    "asset_count": 6,
+    "labels": [
+      "PASARIN",
+      "Lebih dekat dengan produk dan usaha lokal Indonesia.",
+      "← Katalog",
+      "Buat akun PASARIN",
+      "Daftar sebagai pembeli dengan informasi Anda.",
+      "Nama pengguna",
+      "Masukkan nama pengguna",
+      "Email",
+      "nama@contoh.id",
+      "Kata sandi",
+      "Buat kata sandi",
+      "Gunakan minimal 8 karakter.",
+      "Konfirmasi kata sandi",
+      "Ulangi kata sandi",
+      "Daftar",
+      "atau daftar dengan",
+      "Facebook",
+      "Google",
+      "Sudah punya akun?",
+      "Masuk",
+      "Anda tetap dapat menjelajahi katalog tanpa membuat akun.",
+      "© 2026 PASARIN"
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgLogoPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgLogoPasarin} />",
+        "preceding_context": "k-0 text-[48px] text-white w-[min-content]\" data-node-id=\"84:27079\">\n          PASARIN\n        </p>\n        <div className=\"bg-white content-stretch flex flex-col items-start overflow-clip p-[8px] relative rounded-[20px] shrink-0 size-[116px]\" data-node-id=\"84:27080\" data-name=\"Lambang merek\">\n          <div className=\"relative shrink-0 size-[100px]\" data-node-id=\"84:27081\" data-name=\"Logo PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgKemejaLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[183.42%] left-[-44.77%] max-w-none top-[-50.28%] w-[182.45%]\" src={imgKemejaLokal} />",
+        "preceding_context": "      </div>\n        <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[20px] text-white w-[min-content]\" data-node-id=\"84:27082\">\n          Lebih dekat dengan produk dan usaha lokal Indonesia.\n        </p>\n        <div className=\"absolute h-[310px] left-[205px] top-[360px] w-[245px]\" data-node-id=\"84:27083\" data-name=\"Kemeja lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgGulaKelapa",
+        "element": "<img alt=\"\" className=\"absolute h-[214.96%] left-[-101.95%] max-w-none top-[-64.02%] w-[300.03%]\" src={imgGulaKelapa} />",
+        "preceding_context": ":27083\" data-name=\"Kemeja lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[183.42%] left-[-44.77%] max-w-none top-[-50.28%] w-[182.45%]\" src={imgKemejaLokal} />\n          </div>\n        </div>\n        <div className=\"absolute h-[335px] left-[12px] top-[435px] w-[190px]\" data-node-id=\"84:27084\" data-name=\"Gula kelapa\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgCamilanLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[127.36%] left-[-2.13%] max-w-none top-[-14.43%] w-[104.35%]\" src={imgCamilanLokal} />",
+        "preceding_context": "7084\" data-name=\"Gula kelapa\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[214.96%] left-[-101.95%] max-w-none top-[-64.02%] w-[300.03%]\" src={imgGulaKelapa} />\n          </div>\n        </div>\n        <div className=\"absolute h-[364px] left-[130px] top-[585px] w-[355px]\" data-node-id=\"84:27085\" data-name=\"Camilan lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgMinumanLokal",
+        "element": "<img alt=\"\" className=\"absolute h-[196.5%] left-[-98.62%] max-w-none top-[-54.16%] w-[292.65%]\" src={imgMinumanLokal} />",
+        "preceding_context": "085\" data-name=\"Camilan lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            <img alt=\"\" className=\"absolute h-[127.36%] left-[-2.13%] max-w-none top-[-14.43%] w-[104.35%]\" src={imgCamilanLokal} />\n          </div>\n        </div>\n        <div className=\"absolute h-[298px] left-[25px] top-[675px] w-[160px]\" data-node-id=\"84:27086\" data-name=\"Minuman lokal\">\n          <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n            "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "assName=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:27151;143:1435\">\n                        <p className=\"leading-[20px]\">Buat kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:27151;143:1437\" data-name=\"Icon\">\n                    "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "sName=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:27179;143:1435\">\n                        <p className=\"leading-[20px]\">Ulangi kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:27179;143:1437\" data-name=\"Icon\">\n                    "
+      }
+    ]
+  },
+  "signup_mobile": {
+    "reference": "tmp\\figma\\signup-mobile.tsx",
+    "screenshot": "tmp\\figma\\signup-mobile.png",
+    "asset_count": 3,
+    "labels": [
+      "← Katalog",
+      "Buat akun PASARIN",
+      "Daftar sebagai pembeli dengan informasi Anda.",
+      "Nama pengguna",
+      "Masukkan nama pengguna",
+      "Email",
+      "nama@contoh.id",
+      "Kata sandi",
+      "Buat kata sandi",
+      "Gunakan minimal 8 karakter.",
+      "Konfirmasi kata sandi",
+      "Ulangi kata sandi",
+      "Daftar",
+      "atau daftar dengan",
+      "Facebook",
+      "Google",
+      "Sudah punya akun?",
+      "Masuk",
+      "Anda tetap dapat menjelajahi katalog tanpa membuat akun.",
+      "© 2026 PASARIN"
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "tems-center justify-between overflow-clip relative shrink-0 w-full\" data-node-id=\"84:27243\" data-name=\"Navigasi autentikasi\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:27244\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:27245\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[32px]\" data-node-id=\"84:27245\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[35px] relative shrink-0 w-[105px]\" data-node-id=\"84:27246\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "assName=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:27309;143:1435\">\n                        <p className=\"leading-[20px]\">Buat kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:27309;143:1437\" data-name=\"Icon\">\n                    "
+      },
+      {
+        "variable": "imgIcon",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgIcon} />",
+        "preceding_context": "sName=\"[word-break:break-word] flex flex-col font-['Arimo:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#71727a] text-[16px] whitespace-nowrap\" data-node-id=\"I84:27337;143:1435\">\n                        <p className=\"leading-[20px]\">Ulangi kata sandi</p>\n                      </div>\n                    </div>\n                  </div>\n                  <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"I84:27337;143:1437\" data-name=\"Icon\">\n                    "
+      }
+    ]
+  },
+  "store_desktop": {
+    "reference": "tmp\\figma\\store-desktop.tsx",
+    "screenshot": "tmp\\figma\\store-desktop.png",
+    "asset_count": 8,
+    "labels": [
+      "Masuk",
+      "Daftar",
+      "Semua kategori",
+      "Busana",
+      "Katalog / Dikala Senja Cafe",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Racikan penuh rasa dari tangan lokal.",
+      "Dari pahit manisnya kopi, keharmonisan matcha, hingga kesegaran jus alami kami menghadirkan karakter bahan alam dalam setiap tegukan harianmu.",
+      "Pemilik: Sari Wulandari",
+      "Jakarta Selatan, DKI Jakarta",
+      "WhatsApp: +62 812 3456 7890",
+      "Hubungi melalui WhatsApp",
+      "Pemesanan dan transaksi langsung dengan toko.",
+      "Produk dari toko ini",
+      "4 produk ditampilkan",
+      "Arabica Gayo",
+      "Biji kopi · Jakarta",
+      "Rp65.000",
+      "Lihat detail",
+      "Pure Matcha",
+      "Matcha · Jakarta",
+      "Rp13.000",
+      "Kopi Susu Sahabat",
+      "Kopi susu · Jakarta",
+      "Rp15.000",
+      "Orange Juice",
+      "Jus jeruk botol · Jakarta",
+      "pasarin",
+      "Temukan lokal. Dukung usaha Indonesia.",
+      "© 2026 PASARIN. Untuk usaha lokal Indonesia."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgSearch",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgSearch} />",
+        "preceding_context": "c-86fecb9bdb32.png\";\n\ntype SearchBarProps = {\n  className?: string;\n  placeholder?: string;\n  state?: \"Empty\";\n};\n\nfunction SearchBar({ className, placeholder = \"Search\", state = \"Empty\" }: SearchBarProps) {\n  return (\n    <div className={className || \"bg-[#f8f9fe] content-stretch flex gap-[16px] items-end overflow-clip px-[16px] py-[12px] relative rounded-[24px] w-[311px]\"} data-node-id=\"2:22\">\n      <div className=\"relative shrink-0 size-[16px]\" data-node-id=\"2:23\" data-name=\"Search\">\n        "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": " flex gap-[32px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:26246\" data-name=\"Identitas dan akun\">\n          <div className=\"bg-white content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:26247\" data-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:26248\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "ata-name=\"Logo PASARIN\">\n            <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:26248\" data-name=\"Simbol PASARIN\">\n              <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n              </div>\n            </div>\n            <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:26249\" data-name=\"Nama PASARIN\">\n              "
+      },
+      {
+        "variable": "imgBannerDikalaSenjaCafe",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgBannerDikalaSenjaCafe} />",
+        "preceding_context": "normal leading-[1.5] relative shrink-0 text-[#71727a] text-[14px] w-full\" data-node-id=\"84:26279\">\n          Katalog / Dikala Senja Cafe\n        </p>\n        <div className=\"border border-[#e3e6ed] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[18px] shrink-0 w-full\" data-node-id=\"84:26280\" data-name=\"Profil publik toko\">\n          <div className=\"h-[220px] relative shrink-0 w-full\" data-node-id=\"84:26281\" data-name=\"Banner Dikala Senja Cafe\">\n            "
+      },
+      {
+        "variable": "imgFotoProduk",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk} />",
+        "preceding_context": "s-start relative shrink-0 w-full\" data-node-id=\"84:26310\" data-name=\"Baris produk\">\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26311\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26312\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk1",
+        "element": "<img alt=\"\" className=\"absolute h-[132.29%] left-0 max-w-none top-[-32.39%] w-full\" src={imgFotoProduk1} />",
+        "preceding_context": "       <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26325\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26326\" data-name=\"Foto produk\">\n                <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n                  "
+      },
+      {
+        "variable": "imgFotoProduk2",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk2} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26339\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26340\" data-name=\"Foto produk\">\n                "
+      },
+      {
+        "variable": "imgFotoProduk3",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgFotoProduk3} />",
+        "preceding_context": "                </p>\n                </div>\n              </div>\n            </div>\n            <div className=\"bg-white border border-[#e3e6ed] border-solid content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative rounded-[15px] self-stretch shadow-[0px_3px_8px_0px_rgba(31,46,71,0.06)]\" data-node-id=\"84:26353\" data-name=\"Kartu produk\">\n              <div className=\"h-[214px] relative shrink-0 w-full\" data-node-id=\"84:26354\" data-name=\"Foto produk\">\n                "
+      }
+    ]
+  },
+  "verification_detail_desktop": {
+    "reference": "tmp\\figma\\verification-detail-desktop.tsx",
+    "screenshot": null,
+    "asset_count": 13,
+    "labels": [
+      "RUANG KERJA ADMIN",
+      "Ringkasan",
+      "Verifikasi UMKM",
+      "Kategori",
+      "Moderasi",
+      "Kelola Toko",
+      "Kelola Produk",
+      "Keluar",
+      "Jaga kepercayaan.",
+      "Tinjau dengan adil. Dukung usaha lokal.",
+      "Panduan verifikasi ↗",
+      "© 2026 PASARIN",
+      "Administrasi / Verifikasi UMKM",
+      "Admin platform",
+      "← Kembali ke daftar verifikasi",
+      "Detail Verifikasi",
+      "Pengajuan UMKM · 08 Nov 2026, 09.12 WIB",
+      "Menunggu verifikasi",
+      "Data pemilik dan toko",
+      "dsc.",
+      "Dikala Senja Cafe",
+      "Nama pemilik",
+      "Sari Wulandari",
+      "Nomor WhatsApp",
+      "+62 812 3456 7890",
+      "Alamat toko",
+      "Jl. Sudirman No. 28, Jakarta Selatan, DKI Jakarta 55153",
+      "Deskripsi toko",
+      "Thoughtfully crafted flavors, made by local hands. Dari pahit manisnya kopi, keharmonisan matcha, hingga kesegaran jus alami kami menghadirkan karakter bahan alam dalam setiap tegukan harianmu.",
+      "Dokumen identitas",
+      "KTP pemilik",
+      "Placeholder — berkas tidak tersedia",
+      "Bukan dokumen identitas asli.",
+      "Dokumen usaha / NIB",
+      "Dokumen bersifat privat dan tidak ditampilkan pada toko publik.",
+      "Pastikan data dan kontak sesuai sebelum menyetujui.",
+      "Tolak",
+      "Setujui UMKM",
+      "Pratinjau toko publik",
+      "Pratinjau",
+      "Jakarta Selatan · +62 812 3456 7890",
+      "4 produk",
+      "Mulai Rp13.000",
+      "Lihat pratinjau toko ↗",
+      "Tinjau sebelum memutuskan",
+      "Cocokkan pemilik, dokumen asli, dan nomor WhatsApp aktif."
+    ],
+    "image_geometry": [
+      {
+        "variable": "imgProfile",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />",
+        "preceding_context": "-5aa5c3e8539d.svg\";\nconst imgChevronDown = \"https://www.figma.com/api/mcp/asset/1a2c9087-b2f8-4597-b3e7-716a6b1bae05.svg\";\nconst imgFileImage = \"https://www.figma.com/api/mcp/asset/3f894ee4-0aef-46e0-8327-a758a639e130.svg\";\nconst imgInfo = \"https://www.figma.com/api/mcp/asset/6ccdb11a-10c7-4b2f-ac8c-ae419da50414.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      "
+      },
+      {
+        "variable": "imgChat",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />",
+        "preceding_context": "et/6ccdb11a-10c7-4b2f-ac8c-ae419da50414.svg\";\n\nfunction Profile({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24.001px]\"} data-node-id=\"21:548\" data-name=\"Profile\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgProfile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      "
+      },
+      {
+        "variable": "imgShoppingBagOutlined",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />",
+        "preceding_context": "rofile} />\n    </div>\n  );\n}\n\nfunction Chat({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:69\" data-name=\"Chat\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChat} />\n    </div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      "
+      },
+      {
+        "variable": "imgStore",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />",
+        "preceding_context": "div>\n  );\n}\n\nfunction ShoppingBagOutlined({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:35\" data-name=\"Shopping Bag Outlined\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      "
+      },
+      {
+        "variable": "imgCategories",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgCategories} />",
+        "preceding_context": "{imgShoppingBagOutlined} />\n    </div>\n  );\n}\n\nfunction Store({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:63\" data-name=\"Store\">\n      <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgStore} />\n    </div>\n  );\n}\n\nfunction Categories({ className }: { className?: string }) {\n  return (\n    <div className={className || \"relative size-[24px]\"} data-node-id=\"2:50\" data-name=\"Categories\">\n      "
+      },
+      {
+        "variable": "imgSimbolPasarin",
+        "element": "<img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />",
+        "preceding_context": "ems-start min-h-[900px] overflow-clip p-[24px] relative self-stretch shrink-0 w-[232px]\" data-node-id=\"84:149365\" data-name=\"Sidebar admin\">\n        <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0\" data-node-id=\"84:149366\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:149367\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              "
+      },
+      {
+        "variable": "imgNamaPasarin",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgNamaPasarin} />",
+        "preceding_context": "84:149366\" data-name=\"Logo PASARIN\">\n          <div className=\"relative shrink-0 size-[40px]\" data-node-id=\"84:149367\" data-name=\"Simbol PASARIN\">\n            <div className=\"absolute inset-0 overflow-hidden pointer-events-none\">\n              <img alt=\"\" className=\"absolute left-0 max-w-none size-full top-0\" src={imgSimbolPasarin} />\n            </div>\n          </div>\n          <div className=\"h-[42px] relative shrink-0 w-[126px]\" data-node-id=\"84:149368\" data-name=\"Nama PASARIN\">\n            "
+      },
+      {
+        "variable": "imgShieldCheck",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgShieldCheck} />",
+        "preceding_context": "Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:149385\">\n              Kategori\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:149386\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155309\" data-name=\"shield-check\">\n              "
+      },
+      {
+        "variable": "imgLogOut",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgLogOut} />",
+        "preceding_context": "Arimo:Regular'] font-normal leading-[1.5] min-w-px relative text-[#192c45] text-[14px]\" data-node-id=\"84:149398\">\n              Kelola Produk\n            </p>\n          </div>\n          <div className=\"bg-white content-stretch flex gap-[10px] h-[48px] items-center overflow-clip p-[12px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:149399\" data-name=\"Item navigasi\">\n            <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155312\" data-name=\"log-out\">\n              "
+      },
+      {
+        "variable": "imgChevronDown",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgChevronDown} />",
+        "preceding_context": "si UMKM\n          </p>\n          <Chat className=\"relative shrink-0 size-[20px]\" />\n          <Profile className=\"relative shrink-0 size-[28px]\" />\n          <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#192c45] text-[14px] whitespace-nowrap\" data-node-id=\"84:149417\">\n            Admin platform\n          </p>\n          <div className=\"relative shrink-0 size-[14px]\" data-node-id=\"84:155315\" data-name=\"chevron-down\">\n            "
+      },
+      {
+        "variable": "imgFileImage",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgFileImage} />",
+        "preceding_context": "retch flex flex-[1_0_0] flex-col gap-[4px] items-start min-h-[98px] min-w-px overflow-clip p-[12px] relative rounded-[10px]\" data-node-id=\"84:149460\" data-name=\"Dokumen tidak tersedia\">\n                    <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:149461\" data-name=\"Label dokumen\">\n                      <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155318\" data-name=\"file-image\">\n                        "
+      },
+      {
+        "variable": "imgFileImage",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgFileImage} />",
+        "preceding_context": "retch flex flex-[1_0_0] flex-col gap-[4px] items-start min-h-[98px] min-w-px overflow-clip p-[12px] relative rounded-[10px]\" data-node-id=\"84:149466\" data-name=\"Dokumen tidak tersedia\">\n                    <div className=\"content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0 w-full\" data-node-id=\"84:149467\" data-name=\"Label dokumen\">\n                      <div className=\"relative shrink-0 size-[18px]\" data-node-id=\"84:155321\" data-name=\"file-image\">\n                        "
+      },
+      {
+        "variable": "imgBannerToko",
+        "element": "<img alt=\"\" className=\"absolute inset-0 max-w-none object-cover pointer-events-none size-full\" src={imgBannerToko} />",
+        "preceding_context": " <p className=\"[word-break:break-word] font-['Arimo:Regular'] font-normal leading-[normal] relative shrink-0 text-[#006ffd] text-[12px] text-center tracking-[0.6px] uppercase whitespace-nowrap\" data-node-id=\"I84:149496;6:2244\">\n                        Pratinjau\n                      </p>\n                    </div>\n                  </div>\n                </div>\n                <div className=\"h-[112px] relative shrink-0 w-full\" data-node-id=\"84:149505\" data-name=\"Banner toko\">\n                  "
+      },
+      {
+        "variable": "imgInfo",
+        "element": "<img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgInfo} />",
+        "preceding_context": "-node-id=\"I84:149518;6:885\">\n                      Lihat pratinjau toko ↗\n                    </p>\n                  </div>\n                </div>\n              </div>\n              <div className=\"bg-[#eaf2ff] content-stretch flex gap-[12px] items-start overflow-clip p-[16px] relative rounded-[10px] shrink-0 w-full\" data-node-id=\"84:149526\" data-name=\"Umpan balik status\">\n                <div className=\"relative shrink-0 size-[20px]\" data-node-id=\"84:155324\" data-name=\"info\">\n                  "
+      }
+    ]
+  }
+}

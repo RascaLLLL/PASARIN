@@ -1,0 +1,320 @@
+{
+  "status": "passed",
+  "checks": [
+    "Cache validation and stable static assets",
+    "Search layout and admin typography at all breakpoints",
+    "Native cross-document transition and back navigation",
+    "Search navigation, modal validation and category CRUD",
+    "Owner layouts, store switching and mobile menu",
+    "Public layouts, gallery race handling and feedback forms",
+    "Reduced motion disables page, card and gallery animations"
+  ],
+  "searchMetrics": [
+    {
+      "route": "admin/kategori.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/verifikasi.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/laporan.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/toko.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/produk.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/pemilik.html",
+      "viewport": 360,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/kategori.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/verifikasi.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/laporan.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/toko.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/produk.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/pemilik.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/kategori.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/verifikasi.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/laporan.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/toko.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/produk.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/pemilik.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/kategori.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/verifikasi.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/laporan.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/toko.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/produk.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/pemilik.html",
+      "viewport": 1024,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/kategori.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/verifikasi.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/laporan.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/toko.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/produk.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "admin/pemilik.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "umkm/produk.html",
+      "viewport": 390,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "umkm/produk.html",
+      "viewport": 768,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    },
+    {
+      "route": "umkm/produk.html",
+      "viewport": 1440,
+      "label": "Cari",
+      "width": 52,
+      "height": 34,
+      "lines": 1,
+      "fits": true
+    }
+  ],
+  "pageErrors": [],
+  "viewports": [
+    360,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "date": "2026-11-09T10:35:52.813Z"
+}

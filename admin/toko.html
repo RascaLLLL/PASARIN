@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#006ffd" />
+    <meta
+      name="description"
+      content="PASARIN, platform katalog dan promosi UMKM lokal. Temukan produk pilihan dan hubungi toko secara langsung."
+    />
+    <title>Kelola Toko | PASARIN</title>
+    <link rel="stylesheet" href="../assets/vendor/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/css/fonts.css" />
+    <link rel="stylesheet" href="../assets/css/app.css" />
+    <link rel="stylesheet" href="../assets/css/figma-crops.css" />
+    <link rel="stylesheet" href="../assets/css/motion.css" />
+    <script src="../assets/js/motion.js"></script>
+    <script src="../assets/vendor/bootstrap.bundle.min.js" defer></script>
+    <script src="../assets/js/figma-assets.js" defer></script>
+    <script src="../assets/js/data.js" defer></script>
+    <script src="../assets/js/ui.js" defer></script>
+    <script src="../assets/js/pages-public.js" defer></script>
+    <script src="../assets/js/pages-owner.js" defer></script>
+    <script src="../assets/js/pages-admin.js" defer></script>
+    <script src="../assets/js/app.js" defer blocking="render"></script>
+  </head>
+  <body data-page="admin-stores" data-base="../" class="loading">
+    <a class="skip-link" href="#main-content">Lewati ke konten</a>
+    <div id="app">
+      <main class="skeleton-shell">
+        <h1>PASARIN</h1>
+        <p>Menyiapkan pilihan lokal untuk Anda…</p>
+      </main>
+    </div>
+    <noscript
+      ><p class="alert alert-warning m-4">
+        Aktifkan JavaScript untuk mencoba katalog dan fitur interaktif PASARIN.
+      </p></noscript
+    >
+    <div
+      class="modal fade"
+      id="app-modal"
+      tabindex="-1"
+      aria-labelledby="app-modal-title"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h2 class="modal-title" id="app-modal-title"></h2>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Tutup"
+            ></button>
+          </div>
+          <div class="modal-body" id="app-modal-body"></div>
+          <div class="modal-footer" id="app-modal-footer"></div>
+        </div>
+      </div>
+    </div>
+    <div
+      id="toast-region"
+      class="toast-container position-fixed bottom-0 end-0 p-3"
+      aria-live="polite"
+      aria-atomic="true"
+    ></div>
+  </body>
+</html>

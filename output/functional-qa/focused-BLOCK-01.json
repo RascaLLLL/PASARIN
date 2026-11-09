@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "browser": "157.0.8103.38",
+  "cases": 1,
+  "passed": 1,
+  "failed": 0,
+  "scope": "Local frontend UI, sessions and business flows; no real Laravel/OAuth/email backend.",
+  "results": [
+    {
+      "id": "BLOCK-01",
+      "title": "Account changes revoke dirty forms; blocking hides all stores and prevents owner access",
+      "status": "passed",
+      "elapsedMs": 7038
+    }
+  ],
+  "date": "2026-11-09T10:30:19.175Z"
+}

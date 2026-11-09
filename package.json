@@ -1,0 +1,13 @@
+{
+  "name": "pasarin-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend demo PASARIN: HTML, CSS, JavaScript, Bootstrap",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "check": "node tools/check.mjs",
+    "test": "node tools/run-qa.cjs",
+    "test:functional": "node tests/functional-qa.cjs",
+    "test:ui": "node tests/ui-motion.cjs"
+  }
+}

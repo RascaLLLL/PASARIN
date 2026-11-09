@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2200" viewBox="0 0 1600 2200" role="img" aria-label="Akses akun lintas peran">
+<rect width="100%" height="100%" fill="white"/>
+<text x="800.0" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="bold" font-style="normal" fill="#202A31">Use Case Diagram PASARIN</text>
+<text x="800.0" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" font-style="normal" fill="#59636B">Platform katalog dan promosi UMKM lokal</text>
+<text x="800.0" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" font-style="normal" fill="#202A31">02 / 04  -  Akses akun lintas peran</text>
+<polyline points="180,210 1420,210 1420,1300 180,1300 180,210" fill="none" stroke="#202A31" stroke-width="2.1"/>
+<text x="800.0" y="249" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="bold" font-style="normal" fill="#202A31">Sistem PASARIN</text>
+<circle cx="85" cy="355" r="14" fill="white" stroke="#202A31" stroke-width="2"/>
+<polyline points="85,369 85,417" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="57,389 113,389" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="85,417 60,447" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="85,417 110,447" fill="none" stroke="#202A31" stroke-width="2"/>
+<text x="85" y="483" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">Pengunjung</text>
+<polyline points="113,389 580,410" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<ellipse cx="800" cy="410" rx="220.0" ry="45.0" fill="white" stroke="#202A31" stroke-width="1.8"/>
+<text x="800" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" font-style="normal" fill="#59636B">UC-06</text>
+<text x="800" y="422" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" font-style="normal" fill="#202A31">Daftar akun</text>
+<polygon points="545,515 1037,515 1055,533 1055,630 545,630" fill="white" stroke="#59636B" stroke-width="1.3"/>
+<polyline points="1037,515 1037,533 1055,533" fill="none" stroke="#59636B" stroke-width="1.3"/>
+<text x="563" y="547" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">Akun yang sama dapat digunakan untuk</text>
+<text x="563" y="575" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">menjelajah, mengulas, dan membuka toko.</text>
+<ellipse cx="430" cy="900" rx="150.0" ry="45.0" fill="white" stroke="#202A31" stroke-width="1.8"/>
+<text x="430" y="885" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" font-style="normal" fill="#59636B">UC-07</text>
+<text x="430" y="912" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" font-style="normal" fill="#202A31">Masuk</text>
+<ellipse cx="800" cy="900" rx="150.0" ry="45.0" fill="white" stroke="#202A31" stroke-width="1.8"/>
+<text x="800" y="885" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" font-style="normal" fill="#59636B">UC-08</text>
+<text x="800" y="912" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" font-style="normal" fill="#202A31">Keluar</text>
+<ellipse cx="1170" cy="900" rx="170.0" ry="45.0" fill="white" stroke="#202A31" stroke-width="1.8"/>
+<text x="1170" y="885" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" font-style="normal" fill="#59636B">UC-09</text>
+<text x="1170" y="912" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="normal" font-style="normal" fill="#202A31">Pulihkan kata sandi</text>
+<polygon points="260,680 592,680 610,698 610,800 260,800" fill="white" stroke="#59636B" stroke-width="1.3"/>
+<polyline points="592,680 592,698 610,698" fill="none" stroke="#59636B" stroke-width="1.3"/>
+<text x="278" y="712" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">Alternatif: kata sandi,</text>
+<text x="278" y="740" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">Google, atau Facebook.</text>
+<polyline points="430,800 430,855.0" fill="none" stroke="#59636B" stroke-width="1.2" stroke-dasharray="7 5"/>
+<polygon points="1010,660 1337,660 1355,678 1355,805 1010,805" fill="white" stroke="#59636B" stroke-width="1.3"/>
+<polyline points="1337,660 1337,678 1355,678" fill="none" stroke="#59636B" stroke-width="1.3"/>
+<text x="1028" y="692" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">Pemulihan melalui email</text>
+<text x="1028" y="720" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">dan pengaturan ulang</text>
+<text x="1028" y="748" text-anchor="start" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#202A31">kata sandi.</text>
+<polyline points="1170,805 1170,855.0" fill="none" stroke="#59636B" stroke-width="1.2" stroke-dasharray="7 5"/>
+<circle cx="800" cy="1410" r="14" fill="white" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1424 800,1472" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="772,1444 828,1444" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1472 775,1502" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1472 825,1502" fill="none" stroke="#202A31" stroke-width="2"/>
+<text x="882" y="1456" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="normal" font-style="italic" fill="#202A31">Pengguna akun</text>
+<polyline points="800,1396 430,945.0" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<polyline points="800,1396 800,945.0" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<polyline points="800,1396 1170,945.0" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<circle cx="350" cy="1820" r="14" fill="white" stroke="#202A31" stroke-width="2"/>
+<polyline points="350,1834 350,1882" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="322,1854 378,1854" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="350,1882 325,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="350,1882 375,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<text x="350" y="1948" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">Pembeli</text>
+<text x="350" y="1976" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">terdaftar</text>
+<circle cx="800" cy="1820" r="14" fill="white" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1834 800,1882" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="772,1854 828,1854" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1882 775,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="800,1882 825,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<text x="800" y="1948" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">Pemilik</text>
+<text x="800" y="1976" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">UMKM</text>
+<circle cx="1250" cy="1820" r="14" fill="white" stroke="#202A31" stroke-width="2"/>
+<polyline points="1250,1834 1250,1882" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="1222,1854 1278,1854" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="1250,1882 1225,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<polyline points="1250,1882 1275,1912" fill="none" stroke="#202A31" stroke-width="2"/>
+<text x="1250" y="1948" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="bold" font-style="normal" fill="#202A31">Admin</text>
+<polyline points="350,1806 660,1610 772,1444" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<polygon points="768.2546787292081,1469.2184965566655 772,1444 750.0174610212987,1456.9138677416906" fill="white" stroke="#202A31" stroke-width="1.7"/>
+<polyline points="800,1806 800,1502" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<polygon points="811.0,1525.0 800,1502 789.0,1525.0" fill="white" stroke="#202A31" stroke-width="1.7"/>
+<polyline points="1250,1806 940,1610 828,1444" fill="none" stroke="#202A31" stroke-width="1.7"/>
+<polygon points="849.9825389787013,1456.9138677416906 828,1444 831.7453212707919,1469.2184965566655" fill="white" stroke="#202A31" stroke-width="1.7"/>
+<text x="800" y="2040" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="normal" font-style="normal" fill="#59636B">Segitiga kosong menunjuk peran umum. Integrasi Google, Facebook, dan email disimulasikan pada FE.</text>
+<polyline points="100,2090 1500,2090" fill="none" stroke="#C6CDD2" stroke-width="1"/>
+<text x="100" y="2130" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="normal" font-style="normal" fill="#59636B">PASARIN  |  Revisi 2  |  Ruang lingkup FE interaktif</text>
+<text x="1500" y="2130" text-anchor="end" font-family="Arial, sans-serif" font-size="18" font-weight="normal" font-style="normal" fill="#59636B">2 / 4</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "checks": [
+    "Nonblocked account cannot be shown as blocked",
+    "Long product/store text fits mobile width"
+  ],
+  "pageErrors": []
+}

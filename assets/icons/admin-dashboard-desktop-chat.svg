@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chat">
+<mask id="mask0_0_168" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="22" height="22">
+<path id="Shape" d="M12.0001 1C18.0747 1 22.9988 5.9241 22.9988 11.9987C22.9988 18.0732 18.0747 22.9973 12.0001 22.9973C10.2208 22.9997 8.46766 22.5686 6.89235 21.7413L2.17392 22.9698C2.01626 23.0109 1.85061 23.01 1.69338 22.9674C1.53615 22.9247 1.39281 22.8416 1.27755 22.7265C1.16229 22.6114 1.07913 22.4681 1.03629 22.3109C0.993463 22.1537 0.992452 21.9881 1.03336 21.8304L2.26081 17.113C1.43129 15.536 0.999014 13.7805 1.00147 11.9987C1.00147 5.9241 5.92557 1 12.0001 1Z" fill="#006FFD"/>
+</mask>
+<g mask="url(#mask0_0_168)">
+<rect id="Fill" width="24" height="24" fill="#006FFD"/>
+</g>
+</g>
+</svg>

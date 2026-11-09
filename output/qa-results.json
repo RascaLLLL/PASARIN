@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "checks": [
+    "Guest catalogue, category and search",
+    "Product gallery and WhatsApp",
+    "Guest review requires login, invalid credentials, review create/edit persistence",
+    "Owner store switching and product CRUD",
+    "Registration, mandatory KTP, optional NIB and instant publication",
+    "Admin verification applies once to all owner stores",
+    "Category CRUD and duplicate/in-use validation",
+    "Buyer report, admin hide/restore and catalogue synchronization",
+    "Block owner hides every store and restricts owner access",
+    "Admin edit and store/product visibility actions",
+    "Google/Facebook simulation, password recovery, help and chat",
+    "Owner deletion removes product from catalogue",
+    "All page routes and mobile/tablet layouts",
+    "Identity correction and reapplication without publication delay",
+    "Role restrictions, mobile public menu and password visibility",
+    "Figma asset callsites and effective image geometry"
+  ],
+  "pageErrors": [],
+  "viewports": [
+    360,
+    390,
+    768,
+    1440
+  ],
+  "date": "2026-11-09T09:04:18.022Z"
+}

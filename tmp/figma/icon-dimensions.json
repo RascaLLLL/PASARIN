@@ -1,0 +1,586 @@
+[
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgProfile",
+    "path": "assets/icons/admin-dashboard-desktop-profile.svg",
+    "width": "24.0009",
+    "height": "24.0006",
+    "viewBox": "0 0 24.0009 24.0006"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/admin-dashboard-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "path": "assets/icons/admin-dashboard-desktop-shopping-bag-outlined.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/admin-dashboard-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCategories",
+    "path": "assets/icons/admin-dashboard-desktop-categories.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShieldCheck",
+    "path": "assets/icons/admin-dashboard-desktop-shield-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgLogOut",
+    "path": "assets/icons/admin-dashboard-desktop-log-out.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChevronDown",
+    "path": "assets/icons/admin-dashboard-desktop-chevron-down.svg",
+    "width": "14",
+    "height": "14",
+    "viewBox": "0 0 14 14"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCalendarDays",
+    "path": "assets/icons/admin-dashboard-desktop-calendar-days.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgStore1",
+    "path": "assets/icons/admin-dashboard-desktop-store1.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgPackage",
+    "path": "assets/icons/admin-dashboard-desktop-package.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgBadgeCheck",
+    "path": "assets/icons/admin-dashboard-desktop-badge-check.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShapes",
+    "path": "assets/icons/admin-dashboard-desktop-shapes.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgBadgeCheck1",
+    "path": "assets/icons/admin-dashboard-desktop-badge-check1.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChevronRight",
+    "path": "assets/icons/admin-dashboard-desktop-chevron-right.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShapes1",
+    "path": "assets/icons/admin-dashboard-desktop-shapes1.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCircleCheck",
+    "path": "assets/icons/admin-dashboard-desktop-circle-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/catalog-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/catalog-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgSearch",
+    "path": "assets/icons/catalog-desktop-search.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgChat",
+    "path": "assets/icons/catalog-mobile-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgStore",
+    "path": "assets/icons/catalog-mobile-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgSearch",
+    "path": "assets/icons/catalog-mobile-search.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgMenu",
+    "path": "assets/icons/catalog-mobile-menu.svg",
+    "width": "22",
+    "height": "22",
+    "viewBox": "0 0 22 22"
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgIcon",
+    "path": "assets/icons/login-desktop-icon.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "login_mobile",
+    "variable": "imgIcon",
+    "path": "assets/icons/login-mobile-icon.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/owner-dashboard-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/owner-dashboard-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "path": "assets/icons/owner-dashboard-desktop-shopping-bag-outlined.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgCategories",
+    "path": "assets/icons/owner-dashboard-desktop-categories.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShieldCheck",
+    "path": "assets/icons/owner-dashboard-desktop-shield-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgLogOut",
+    "path": "assets/icons/owner-dashboard-desktop-log-out.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgChevronDown",
+    "path": "assets/icons/owner-dashboard-desktop-chevron-down.svg",
+    "width": "14",
+    "height": "14",
+    "viewBox": "0 0 14 14"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgCircleCheck",
+    "path": "assets/icons/owner-dashboard-desktop-circle-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgX",
+    "path": "assets/icons/owner-dashboard-desktop-x.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShoppingBag",
+    "path": "assets/icons/owner-dashboard-desktop-shopping-bag.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgStore1",
+    "path": "assets/icons/owner-dashboard-desktop-store1.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgMessageCircle",
+    "path": "assets/icons/owner-dashboard-desktop-message-circle.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgIcon",
+    "path": "assets/icons/owner-profile-desktop-icon.svg",
+    "width": "12",
+    "height": "12",
+    "viewBox": "0 0 12 12"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/owner-profile-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/owner-profile-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "path": "assets/icons/owner-profile-desktop-shopping-bag-outlined.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgCategories",
+    "path": "assets/icons/owner-profile-desktop-categories.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgShieldCheck",
+    "path": "assets/icons/owner-profile-desktop-shield-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgLogOut",
+    "path": "assets/icons/owner-profile-desktop-log-out.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgChevronDown",
+    "path": "assets/icons/owner-profile-desktop-chevron-down.svg",
+    "width": "14",
+    "height": "14",
+    "viewBox": "0 0 14 14"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgInfo",
+    "path": "assets/icons/owner-profile-desktop-info.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgX",
+    "path": "assets/icons/owner-profile-desktop-x.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgSearch",
+    "path": "assets/icons/product-desktop-search.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgSearch",
+    "path": "assets/icons/product-mobile-search.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgMenu",
+    "path": "assets/icons/product-mobile-menu.svg",
+    "width": "22",
+    "height": "22",
+    "viewBox": "0 0 22 22"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgProfile",
+    "path": "assets/icons/report-detail-desktop-profile.svg",
+    "width": "24.0009",
+    "height": "24.0006",
+    "viewBox": "0 0 24.0009 24.0006"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/report-detail-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "path": "assets/icons/report-detail-desktop-shopping-bag-outlined.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/report-detail-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgCategories",
+    "path": "assets/icons/report-detail-desktop-categories.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon",
+    "path": "assets/icons/report-detail-desktop-ikon.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon1",
+    "path": "assets/icons/report-detail-desktop-ikon1.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon2",
+    "path": "assets/icons/report-detail-desktop-ikon2.svg",
+    "width": "14",
+    "height": "14",
+    "viewBox": "0 0 14 14"
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon3",
+    "path": "assets/icons/report-detail-desktop-ikon3.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgIcon",
+    "path": "assets/icons/signup-desktop-icon.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "signup_mobile",
+    "variable": "imgIcon",
+    "path": "assets/icons/signup-mobile-icon.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgSearch",
+    "path": "assets/icons/store-desktop-search.svg",
+    "width": "16",
+    "height": "16",
+    "viewBox": "0 0 16 16"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgProfile",
+    "path": "assets/icons/verification-detail-desktop-profile.svg",
+    "width": "24.0009",
+    "height": "24.0006",
+    "viewBox": "0 0 24.0009 24.0006"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgChat",
+    "path": "assets/icons/verification-detail-desktop-chat.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "path": "assets/icons/verification-detail-desktop-shopping-bag-outlined.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgStore",
+    "path": "assets/icons/verification-detail-desktop-store.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgCategories",
+    "path": "assets/icons/verification-detail-desktop-categories.svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgShieldCheck",
+    "path": "assets/icons/verification-detail-desktop-shield-check.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgLogOut",
+    "path": "assets/icons/verification-detail-desktop-log-out.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgChevronDown",
+    "path": "assets/icons/verification-detail-desktop-chevron-down.svg",
+    "width": "14",
+    "height": "14",
+    "viewBox": "0 0 14 14"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgFileImage",
+    "path": "assets/icons/verification-detail-desktop-file-image.svg",
+    "width": "18",
+    "height": "18",
+    "viewBox": "0 0 18 18"
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgInfo",
+    "path": "assets/icons/verification-detail-desktop-info.svg",
+    "width": "20",
+    "height": "20",
+    "viewBox": "0 0 20 20"
+  }
+]

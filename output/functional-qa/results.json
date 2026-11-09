@@ -1,0 +1,173 @@
+{
+  "status": "passed",
+  "browser": "157.0.8103.38",
+  "cases": 27,
+  "passed": 27,
+  "failed": 0,
+  "scope": "Local frontend UI, sessions and business flows; no real Laravel/OAuth/email backend.",
+  "results": [
+    {
+      "id": "AUTH-01",
+      "title": "Admin logout: one physical click while page transition is active",
+      "status": "passed",
+      "elapsedMs": 2243
+    },
+    {
+      "id": "AUTH-02",
+      "title": "Logout from every admin page",
+      "status": "passed",
+      "elapsedMs": 6524
+    },
+    {
+      "id": "AUTH-03",
+      "title": "Admin account-dropdown logout and history does not restore access",
+      "status": "passed",
+      "elapsedMs": 1283
+    },
+    {
+      "id": "AUTH-04",
+      "title": "Mobile admin logout and offcanvas cleanup",
+      "status": "passed",
+      "elapsedMs": 969
+    },
+    {
+      "id": "AUTH-05",
+      "title": "Owner sidebar and public-header logout",
+      "status": "passed",
+      "elapsedMs": 1174
+    },
+    {
+      "id": "AUTH-06",
+      "title": "Buyer desktop and mobile menu logout",
+      "status": "passed",
+      "elapsedMs": 1272
+    },
+    {
+      "id": "AUTH-07",
+      "title": "Blocked account can still logout",
+      "status": "passed",
+      "elapsedMs": 765
+    },
+    {
+      "id": "AUTH-08",
+      "title": "Logout in another tab revokes a dirty private form",
+      "status": "passed",
+      "elapsedMs": 941
+    },
+    {
+      "id": "AUTH-09",
+      "title": "Wrong login rejected and buyer cannot open administration",
+      "status": "passed",
+      "elapsedMs": 668
+    },
+    {
+      "id": "UI-01",
+      "title": "Main action remains clickable immediately during navigation",
+      "status": "passed",
+      "elapsedMs": 801
+    },
+    {
+      "id": "ACCOUNT-01",
+      "title": "Registration validation, persistence and account update",
+      "status": "passed",
+      "elapsedMs": 1305
+    },
+    {
+      "id": "ACCOUNT-02",
+      "title": "Google and Facebook simulated UI flow can login and logout",
+      "status": "passed",
+      "elapsedMs": 2501
+    },
+    {
+      "id": "ACCOUNT-03",
+      "title": "Password reset link is single-use and new password works",
+      "status": "passed",
+      "elapsedMs": 1188
+    },
+    {
+      "id": "CATALOG-01",
+      "title": "Guest search, combined category filters, empty result and WhatsApp",
+      "status": "passed",
+      "elapsedMs": 693
+    },
+    {
+      "id": "REVIEW-01",
+      "title": "Review requires login, creates once, edits and rejects self-review",
+      "status": "passed",
+      "elapsedMs": 2433
+    },
+    {
+      "id": "OWNER-01",
+      "title": "KTP required, NIB optional, two stores publish before approval",
+      "status": "passed",
+      "elapsedMs": 1621
+    },
+    {
+      "id": "OWNER-02",
+      "title": "Invalid identity upload is rejected without changing role",
+      "status": "passed",
+      "elapsedMs": 608
+    },
+    {
+      "id": "OWNER-03",
+      "title": "Store switching and another owners product stays protected",
+      "status": "passed",
+      "elapsedMs": 520
+    },
+    {
+      "id": "PRODUCT-01",
+      "title": "Create draft, publish, edit, cancel delete and delete product",
+      "status": "passed",
+      "elapsedMs": 6056
+    },
+    {
+      "id": "PRODUCT-02",
+      "title": "More than five photos and invalid prices cannot be saved",
+      "status": "passed",
+      "elapsedMs": 1834
+    },
+    {
+      "id": "ADMIN-01",
+      "title": "Category create/edit/cancel/duplicate/delete/in-use validation",
+      "status": "passed",
+      "elapsedMs": 4217
+    },
+    {
+      "id": "ADMIN-02",
+      "title": "Admin phone edits produce valid WhatsApp country code",
+      "status": "passed",
+      "elapsedMs": 1621
+    },
+    {
+      "id": "ADMIN-03",
+      "title": "Hidden products show true store status; restore follows store state",
+      "status": "passed",
+      "elapsedMs": 3508
+    },
+    {
+      "id": "VERIFY-01",
+      "title": "Reject identity, reapply, approve; publication remains independent",
+      "status": "passed",
+      "elapsedMs": 3819
+    },
+    {
+      "id": "MODERATION-01",
+      "title": "Report duplicates, required reasons, hide and restore product",
+      "status": "passed",
+      "elapsedMs": 5395
+    },
+    {
+      "id": "BLOCK-01",
+      "title": "Account changes revoke dirty forms; blocking hides all stores and prevents owner access",
+      "status": "passed",
+      "elapsedMs": 6755
+    },
+    {
+      "id": "HELP-01",
+      "title": "FAQ and chat send/reopen preserve the conversation",
+      "status": "passed",
+      "elapsedMs": 3157
+    }
+  ],
+  "date": "2026-11-09T10:35:30.282Z"
+}

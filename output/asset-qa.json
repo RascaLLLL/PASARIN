@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "geometry": [
+    {
+      "screen": "catalog-desktop",
+      "hero": {
+        "width": 655,
+        "height": 338,
+        "x": 705,
+        "y": 163
+      },
+      "photo": {
+        "width": 303,
+        "height": 214,
+        "x": 81,
+        "y": 742.46875
+      },
+      "symbol": {
+        "width": 40,
+        "height": 40,
+        "x": 80,
+        "y": 24
+      },
+      "wordmark": {
+        "width": 126,
+        "height": 42,
+        "x": 128,
+        "y": 23
+      }
+    },
+    {
+      "screen": "product-desktop",
+      "width": 592,
+      "height": 480
+    },
+    {
+      "screen": "catalog-mobile",
+      "hero": {
+        "width": 110,
+        "height": 140
+      },
+      "photo": {
+        "width": 167,
+        "height": 150
+      },
+      "symbol": {
+        "width": 32,
+        "height": 32
+      },
+      "search": {
+        "width": 350,
+        "height": 44
+      }
+    }
+  ]
+}

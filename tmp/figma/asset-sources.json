@@ -1,0 +1,2249 @@
+[
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgProfile",
+    "url": "https://www.figma.com/api/mcp/asset/4037d5e8-1d7a-4328-bd3e-10d176908e9f.svg",
+    "path": "assets/icons/admin-dashboard-desktop-profile.svg",
+    "bytes": 930,
+    "sha256": "e07b5de337913ce2faf914cb4c58720b5f45931c38a20080bae052fdf04e6a16",
+    "dimensions": {
+      "width": "24.0009",
+      "height": "24.0006",
+      "viewBox": "0 0 24.0009 24.0006"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/e98ed96d-6633-45c7-bc06-935d7d0db14b.svg",
+    "path": "assets/icons/admin-dashboard-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "ea3730b31182069f2a9c3819440e6a4e789de3a7e7b17d695ce98e07a71dfe55",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "url": "https://www.figma.com/api/mcp/asset/34fdb234-b563-42e3-9a28-a70e824dde4a.svg",
+    "path": "assets/icons/admin-dashboard-desktop-shopping-bag-outlined.svg",
+    "bytes": 1670,
+    "sha256": "62c26bb1272c1ab81c1d5e398482dd365903a050f78565347bcf2be2032eedcf",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/761ce5c3-1670-4bc5-ab2a-4295910400d2.svg",
+    "path": "assets/icons/admin-dashboard-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "5bfb53f8f1dce4e90bec3b64413bb17c007a1ea656b6b9717d485f74b80068f2",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCategories",
+    "url": "https://www.figma.com/api/mcp/asset/a9a61923-9118-4c87-be38-23ce33999125.svg",
+    "path": "assets/icons/admin-dashboard-desktop-categories.svg",
+    "bytes": 2039,
+    "sha256": "2ec2a21209c8ba535b96661f477ed8be4ca474237c7a0af4e9bf2d08abc9ab4d",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/d2da9f6d-ee8d-4fbd-91ba-0495d0457ff9.png",
+    "path": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/411a5b21-bf12-403e-99c6-a19dad0679ec.png",
+    "path": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShieldCheck",
+    "url": "https://www.figma.com/api/mcp/asset/26aef6e1-c04f-485e-9155-5f6dea0cd881.svg",
+    "path": "assets/icons/admin-dashboard-desktop-shield-check.svg",
+    "bytes": 869,
+    "sha256": "369fc143ad4bab7751bd15eae254206abbdb3864ba6ef66cab2834e1d9fd6e72",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgLogOut",
+    "url": "https://www.figma.com/api/mcp/asset/9020db05-dcb6-433b-9ba6-4f2a1d88691f.svg",
+    "path": "assets/icons/admin-dashboard-desktop-log-out.svg",
+    "bytes": 529,
+    "sha256": "746a335a39d38a123f680178f9586189e5d5ceb209ac2656e77ab50bdf22e856",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChevronDown",
+    "url": "https://www.figma.com/api/mcp/asset/6547d1df-0b7f-498e-a6db-47f53b258ad8.svg",
+    "path": "assets/icons/admin-dashboard-desktop-chevron-down.svg",
+    "bytes": 310,
+    "sha256": "6ece62901b45365c3b996662b0f04c62823a19eb923672eb43ddeb5ad88682cc",
+    "dimensions": {
+      "width": "14",
+      "height": "14",
+      "viewBox": "0 0 14 14"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCalendarDays",
+    "url": "https://www.figma.com/api/mcp/asset/155c1f49-5676-434b-85de-75ce19d81011.svg",
+    "path": "assets/icons/admin-dashboard-desktop-calendar-days.svg",
+    "bytes": 748,
+    "sha256": "e27e8316764a98a6892624ab4ebefdf0b72f6eceb1a46192fa26635c349bafc8",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgStore1",
+    "url": "https://www.figma.com/api/mcp/asset/f9e74550-70dc-4e7f-84ba-5f60901e170f.svg",
+    "path": "assets/icons/admin-dashboard-desktop-store1.svg",
+    "bytes": 2004,
+    "sha256": "f485dde07f235178d226cebb4722b5bcdf3fb2580a4ab24304653ada3bd1a6a7",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgPackage",
+    "url": "https://www.figma.com/api/mcp/asset/ed91ce87-c97b-46ba-9ddd-e6545ba47ae2.svg",
+    "path": "assets/icons/admin-dashboard-desktop-package.svg",
+    "bytes": 1117,
+    "sha256": "c3a802cbe2b298166a8c685f139b335466c56f9497fbf188e681a6c9d17b4cf7",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgBadgeCheck",
+    "url": "https://www.figma.com/api/mcp/asset/79437880-59e0-4b2a-bf69-90f4aaabc186.svg",
+    "path": "assets/icons/admin-dashboard-desktop-badge-check.svg",
+    "bytes": 1978,
+    "sha256": "80354be7d7604d2cf1391bf2ec4c3f55b130287c785622f2f341738bd9c85836",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShapes",
+    "url": "https://www.figma.com/api/mcp/asset/a32398ba-3945-48e3-9226-b2804e0f28d5.svg",
+    "path": "assets/icons/admin-dashboard-desktop-shapes.svg",
+    "bytes": 1292,
+    "sha256": "c5165cbb8c51052c86e512a0d6bcce9f52134fc775a2530b9dadf8cf337b2d38",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgBadgeCheck1",
+    "url": "https://www.figma.com/api/mcp/asset/103e03c6-2ca8-4c0a-92c8-4c0b26a4711f.svg",
+    "path": "assets/icons/admin-dashboard-desktop-badge-check1.svg",
+    "bytes": 1973,
+    "sha256": "86a20c701294869d04a988969417c2f7172026e5231dcd4df0dd5179834e5397",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgChevronRight",
+    "url": "https://www.figma.com/api/mcp/asset/f68b94aa-81d8-4268-b6f0-7836547aef0d.svg",
+    "path": "assets/icons/admin-dashboard-desktop-chevron-right.svg",
+    "bytes": 299,
+    "sha256": "51296ca2a83d2badb4bf2ff4367914b4fd23af1a62f2900e85692ce3f67110fa",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgShapes1",
+    "url": "https://www.figma.com/api/mcp/asset/4b86b09c-5c88-4822-8934-4695ce6bb152.svg",
+    "path": "assets/icons/admin-dashboard-desktop-shapes1.svg",
+    "bytes": 1309,
+    "sha256": "7feeea72a23e6d49eca027a01c0766f327b9655976a4df3d858b77c2e8cf7164",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "admin_dashboard_desktop",
+    "variable": "imgCircleCheck",
+    "url": "https://www.figma.com/api/mcp/asset/7542f1b0-104e-4777-ae07-ca95d34a219d.svg",
+    "path": "assets/icons/admin-dashboard-desktop-circle-check.svg",
+    "bytes": 618,
+    "sha256": "a10b7c67c600a1bc2113dc20f8344ab4886c3b575393321af103efef9bd9c7e7",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/a624f7f5-424b-4cb1-90bc-7d9d2e24610e.svg",
+    "path": "assets/icons/catalog-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "3ed3d4a6661d75518c4efd42fcf80e6b16420180e8d3c5754a1151d5f5e13c27",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/b26db31d-06a9-4d03-82d4-7bf0b7048332.svg",
+    "path": "assets/icons/catalog-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "1af86e971ced35d5d5d4ced1dcb9e30ad06c76ce8d01b94f89b305b845e3e884",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgSearch",
+    "url": "https://www.figma.com/api/mcp/asset/13e49e0d-ff28-441e-a4a5-a271bebd863b.svg",
+    "path": "assets/icons/catalog-desktop-search.svg",
+    "bytes": 1069,
+    "sha256": "0cdea31b3a190619ce43a6ddbca826c121ea75049acf8157fcc726e3d28fc455",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/fae31c56-fd2d-49ed-bc38-39a09fe7d91e.png",
+    "path": "assets/images/catalog-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/0e521aa5-709a-4055-8900-f24510396083.png",
+    "path": "assets/images/catalog-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgKoleksiProdukLokal",
+    "url": "https://www.figma.com/api/mcp/asset/dcedaf3b-9379-4612-9468-37627128f6e3.png",
+    "path": "assets/images/catalog-desktop-koleksi-produk-lokal.png",
+    "bytes": 177587,
+    "sha256": "5c4e55f67deaec8822eba99fecfe473f4aaccf2d831b164341e271eaca2e7066",
+    "dimensions": {
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/176cfa94-1e33-4eed-8cc1-d1c3a480c73b.png",
+    "path": "assets/images/catalog-desktop-foto-produk.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/f7daa155-7692-481f-abbb-3852f919e22e.png",
+    "path": "assets/images/catalog-desktop-foto-produk1.png",
+    "bytes": 1145041,
+    "sha256": "bfe381c2f6bee580d70ae8943022f3b916a89f82ae3d34d37593941fe65586ba",
+    "dimensions": {
+      "width": 1000,
+      "height": 1497,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/5d18e627-79d7-4d60-971b-ae6a09862b2c.png",
+    "path": "assets/images/catalog-desktop-foto-produk2.png",
+    "bytes": 698173,
+    "sha256": "a31715afee52c9d259825b3d04fabcd9dcd5cf428cc16aac2e0d0e2f36c1b594",
+    "dimensions": {
+      "width": 736,
+      "height": 1104,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk3",
+    "url": "https://www.figma.com/api/mcp/asset/e6fe1732-4b03-4f9d-88f8-20c58902b14e.png",
+    "path": "assets/images/catalog-desktop-foto-produk3.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk4",
+    "url": "https://www.figma.com/api/mcp/asset/49823894-ff81-4e7d-ab71-b3aa1b053540.png",
+    "path": "assets/images/catalog-desktop-foto-produk4.png",
+    "bytes": 2358642,
+    "sha256": "d567bcff22aec9ad66c2eff3fd5117bbe8f8852ca18b9f5efb59f046138ca3d0",
+    "dimensions": {
+      "width": 902,
+      "height": 1600,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk5",
+    "url": "https://www.figma.com/api/mcp/asset/15887799-8f60-480f-be1c-e0df2401008c.png",
+    "path": "assets/images/catalog-desktop-foto-produk5.png",
+    "bytes": 1991065,
+    "sha256": "2f32d5b23c9aa0c3307c3fe42eeb4fa7cffdb555365f79a31c87e385785466a6",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk6",
+    "url": "https://www.figma.com/api/mcp/asset/c2f5944a-423e-4e36-a450-ce76d9d84404.png",
+    "path": "assets/images/catalog-desktop-foto-produk6.png",
+    "bytes": 3799195,
+    "sha256": "595276f63275ab9511c2ba17a914c574ae86e441a18040e9c8badbdc093ff8ca",
+    "dimensions": {
+      "width": 1200,
+      "height": 1800,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk7",
+    "url": "https://www.figma.com/api/mcp/asset/89c71bb4-1fce-426a-83fa-541704fc7b49.png",
+    "path": "assets/images/catalog-desktop-foto-produk7.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk8",
+    "url": "https://www.figma.com/api/mcp/asset/8c7f4591-514f-4f7a-b8c4-ff8ebee05ffa.png",
+    "path": "assets/images/catalog-desktop-foto-produk8.png",
+    "bytes": 1854039,
+    "sha256": "c6d3825141f39772fb8eacfffd75176e95672f11a2c0816348e4e587a3ee3098",
+    "dimensions": {
+      "width": 1200,
+      "height": 1800,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk9",
+    "url": "https://www.figma.com/api/mcp/asset/1be54e1b-55f2-431f-96cb-67d9b3d11f1f.png",
+    "path": "assets/images/catalog-desktop-foto-produk9.png",
+    "bytes": 716837,
+    "sha256": "8e6817ef93df03add8a880397c9f6870c973806529f5c6ec65803ebc0b5c6662",
+    "dimensions": {
+      "width": 736,
+      "height": 1104,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk10",
+    "url": "https://www.figma.com/api/mcp/asset/84aed9dd-9489-4be1-9570-8c3973ac86dd.png",
+    "path": "assets/images/catalog-desktop-foto-produk10.png",
+    "bytes": 354599,
+    "sha256": "42e9ecbc6b3ce8d0fcfa5fcc8b6df3b78c40e4498961dfadc58377aec2b3e0ed",
+    "dimensions": {
+      "width": 736,
+      "height": 920,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk11",
+    "url": "https://www.figma.com/api/mcp/asset/f1ae1f19-3c79-42e5-b727-ad27b0fb3557.png",
+    "path": "assets/images/catalog-desktop-foto-produk11.png",
+    "bytes": 2732544,
+    "sha256": "4d03062506925879d8102c3c593dc18a8d2246016aff0873f0cc0d19096a7720",
+    "dimensions": {
+      "width": 1199,
+      "height": 1501,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk12",
+    "url": "https://www.figma.com/api/mcp/asset/7190ff2a-44c1-4ba8-a5aa-e92aebb5a228.png",
+    "path": "assets/images/catalog-desktop-foto-produk12.png",
+    "bytes": 1260913,
+    "sha256": "b844e3f3bfbdd623db8f1ebcad8b170b14d35015e15a16b92b23a5b458beda5b",
+    "dimensions": {
+      "width": 900,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk13",
+    "url": "https://www.figma.com/api/mcp/asset/0630715f-bbba-414c-afc0-c2f5ae02b726.png",
+    "path": "assets/images/catalog-desktop-foto-produk13.png",
+    "bytes": 1735634,
+    "sha256": "2f2df1572d36d9842068de1e5c89a87cf1de6d335c6d418a6c6c529b5ec018cb",
+    "dimensions": {
+      "width": 1200,
+      "height": 1598,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk14",
+    "url": "https://www.figma.com/api/mcp/asset/9958965d-855f-4c41-bd5c-3ceb506a9a7b.png",
+    "path": "assets/images/catalog-desktop-foto-produk14.png",
+    "bytes": 850030,
+    "sha256": "9870db04081a1965b95415b4c74eadff4ab33f4004e07e0dee7ae97b09285fd9",
+    "dimensions": {
+      "width": 736,
+      "height": 1308,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_desktop",
+    "variable": "imgFotoProduk15",
+    "url": "https://www.figma.com/api/mcp/asset/9731cf30-b939-4385-b553-c2e9bbebb297.png",
+    "path": "assets/images/catalog-desktop-foto-produk15.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/ae140117-a0b9-40e7-9d54-caa17736eabc.svg",
+    "path": "assets/icons/catalog-mobile-chat.svg",
+    "bytes": 893,
+    "sha256": "8a15db57bfef1eeeba76d30c9a823d70eb139762b3dfab6bc1b012ee9978a1e8",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/e5aab4cf-0eef-4df5-ae21-b6ac2f31f863.svg",
+    "path": "assets/icons/catalog-mobile-store.svg",
+    "bytes": 1220,
+    "sha256": "bf0d4ffc6d88f5355b21f52c1134d52268f76af31e7ba8505447a7ebebaf41d8",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgSearch",
+    "url": "https://www.figma.com/api/mcp/asset/a3c9efa0-b598-4ce6-8e17-cce7f9bf3b0b.svg",
+    "path": "assets/icons/catalog-mobile-search.svg",
+    "bytes": 1069,
+    "sha256": "1fa857919ca34e2f9eacce51340956c5b164d31d5ad284a8d8307e956ffb76c1",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/d673ecfb-ce47-41bc-b293-a4173007dc12.png",
+    "path": "assets/images/catalog-mobile-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/05f9e53d-90f7-4c89-9dfe-9f38aac8c8f4.png",
+    "path": "assets/images/catalog-mobile-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgKoleksiProdukLokal",
+    "url": "https://www.figma.com/api/mcp/asset/274938a5-e5a5-4ad1-b1be-605f24ede288.png",
+    "path": "assets/images/catalog-mobile-koleksi-produk-lokal.png",
+    "bytes": 177587,
+    "sha256": "5c4e55f67deaec8822eba99fecfe473f4aaccf2d831b164341e271eaca2e7066",
+    "sameBytesAs": "assets/images/catalog-desktop-koleksi-produk-lokal.png",
+    "dimensions": {
+      "width": 1376,
+      "height": 768,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/af697c79-0396-4868-9ff3-23d4eea21ea6.png",
+    "path": "assets/images/catalog-mobile-foto-produk.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/bee0eab4-7f50-4d6d-aead-cad719e45698.png",
+    "path": "assets/images/catalog-mobile-foto-produk1.png",
+    "bytes": 1145041,
+    "sha256": "bfe381c2f6bee580d70ae8943022f3b916a89f82ae3d34d37593941fe65586ba",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk1.png",
+    "dimensions": {
+      "width": 1000,
+      "height": 1497,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/c64975a2-de52-4e56-bf29-7fc2b2fcdae5.png",
+    "path": "assets/images/catalog-mobile-foto-produk2.png",
+    "bytes": 698173,
+    "sha256": "a31715afee52c9d259825b3d04fabcd9dcd5cf428cc16aac2e0d0e2f36c1b594",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk2.png",
+    "dimensions": {
+      "width": 736,
+      "height": 1104,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk3",
+    "url": "https://www.figma.com/api/mcp/asset/7cb8216a-0a25-4ce9-9f52-7df0ca578ff9.png",
+    "path": "assets/images/catalog-mobile-foto-produk3.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk3.png",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk4",
+    "url": "https://www.figma.com/api/mcp/asset/e05ab901-7867-40ba-95c9-3809d5a63ef4.png",
+    "path": "assets/images/catalog-mobile-foto-produk4.png",
+    "bytes": 2358642,
+    "sha256": "d567bcff22aec9ad66c2eff3fd5117bbe8f8852ca18b9f5efb59f046138ca3d0",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk4.png",
+    "dimensions": {
+      "width": 902,
+      "height": 1600,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk5",
+    "url": "https://www.figma.com/api/mcp/asset/3440710c-0733-4479-aac2-51d56ffba5e7.png",
+    "path": "assets/images/catalog-mobile-foto-produk5.png",
+    "bytes": 1991065,
+    "sha256": "2f32d5b23c9aa0c3307c3fe42eeb4fa7cffdb555365f79a31c87e385785466a6",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk5.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk6",
+    "url": "https://www.figma.com/api/mcp/asset/369d76bd-bcb8-4c48-ab05-be69cc5860af.png",
+    "path": "assets/images/catalog-mobile-foto-produk6.png",
+    "bytes": 3799195,
+    "sha256": "595276f63275ab9511c2ba17a914c574ae86e441a18040e9c8badbdc093ff8ca",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk6.png",
+    "dimensions": {
+      "width": 1200,
+      "height": 1800,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk7",
+    "url": "https://www.figma.com/api/mcp/asset/2521848f-791b-404f-a9f3-c4860b67bd5a.png",
+    "path": "assets/images/catalog-mobile-foto-produk7.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk7.png",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk8",
+    "url": "https://www.figma.com/api/mcp/asset/480a1de2-a93b-40fa-8798-589606b2c595.png",
+    "path": "assets/images/catalog-mobile-foto-produk8.png",
+    "bytes": 1854039,
+    "sha256": "c6d3825141f39772fb8eacfffd75176e95672f11a2c0816348e4e587a3ee3098",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk8.png",
+    "dimensions": {
+      "width": 1200,
+      "height": 1800,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk9",
+    "url": "https://www.figma.com/api/mcp/asset/e5f4c293-8b8b-4472-a9eb-412299af22ae.png",
+    "path": "assets/images/catalog-mobile-foto-produk9.png",
+    "bytes": 716837,
+    "sha256": "8e6817ef93df03add8a880397c9f6870c973806529f5c6ec65803ebc0b5c6662",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk9.png",
+    "dimensions": {
+      "width": 736,
+      "height": 1104,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk10",
+    "url": "https://www.figma.com/api/mcp/asset/9a277d32-5bfc-4c94-9dbf-667738b59b1a.png",
+    "path": "assets/images/catalog-mobile-foto-produk10.png",
+    "bytes": 354599,
+    "sha256": "42e9ecbc6b3ce8d0fcfa5fcc8b6df3b78c40e4498961dfadc58377aec2b3e0ed",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk10.png",
+    "dimensions": {
+      "width": 736,
+      "height": 920,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk11",
+    "url": "https://www.figma.com/api/mcp/asset/a058270a-d55c-48d1-a689-78c43efbc56c.png",
+    "path": "assets/images/catalog-mobile-foto-produk11.png",
+    "bytes": 2732544,
+    "sha256": "4d03062506925879d8102c3c593dc18a8d2246016aff0873f0cc0d19096a7720",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk11.png",
+    "dimensions": {
+      "width": 1199,
+      "height": 1501,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk12",
+    "url": "https://www.figma.com/api/mcp/asset/d570c4c6-2079-4ade-ba04-00988cebca54.png",
+    "path": "assets/images/catalog-mobile-foto-produk12.png",
+    "bytes": 1260913,
+    "sha256": "b844e3f3bfbdd623db8f1ebcad8b170b14d35015e15a16b92b23a5b458beda5b",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk12.png",
+    "dimensions": {
+      "width": 900,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk13",
+    "url": "https://www.figma.com/api/mcp/asset/9e817657-acb1-483d-a3a5-ef08d95a8134.png",
+    "path": "assets/images/catalog-mobile-foto-produk13.png",
+    "bytes": 1735634,
+    "sha256": "2f2df1572d36d9842068de1e5c89a87cf1de6d335c6d418a6c6c529b5ec018cb",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk13.png",
+    "dimensions": {
+      "width": 1200,
+      "height": 1598,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk14",
+    "url": "https://www.figma.com/api/mcp/asset/1d1dfd3a-d954-4f5e-8a0f-a495f7b185e1.png",
+    "path": "assets/images/catalog-mobile-foto-produk14.png",
+    "bytes": 850030,
+    "sha256": "9870db04081a1965b95415b4c74eadff4ab33f4004e07e0dee7ae97b09285fd9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk14.png",
+    "dimensions": {
+      "width": 736,
+      "height": 1308,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgFotoProduk15",
+    "url": "https://www.figma.com/api/mcp/asset/7118a8cb-c477-406d-8ab5-b7ed6e11754f.png",
+    "path": "assets/images/catalog-mobile-foto-produk15.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk15.png",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "catalog_mobile",
+    "variable": "imgMenu",
+    "url": "https://www.figma.com/api/mcp/asset/b1e58e7d-1f13-4156-98bc-31f2b0393647.svg",
+    "path": "assets/icons/catalog-mobile-menu.svg",
+    "bytes": 320,
+    "sha256": "8900bc96a970b4fa8c2b95acfe7774127a6ea460b81f9eb0ee42990d3433864d",
+    "dimensions": {
+      "width": "22",
+      "height": "22",
+      "viewBox": "0 0 22 22"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgLogoPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/3dff9fa7-a981-4c87-8482-06fc1e14cc5f.png",
+    "path": "assets/images/login-desktop-logo-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgKemejaLokal",
+    "url": "https://www.figma.com/api/mcp/asset/7d09b0c5-e448-45a0-8a4c-7a62e56f8826.png",
+    "path": "assets/images/login-desktop-kemeja-lokal.png",
+    "bytes": 625338,
+    "sha256": "711a9061c5402eb9433b225b0661f5e3899c7df3ee67cc413ae2d733f0341e11",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgGulaKelapa",
+    "url": "https://www.figma.com/api/mcp/asset/2f2e9d06-df1c-4d4f-bc4e-a306632ad149.png",
+    "path": "assets/images/login-desktop-gula-kelapa.png",
+    "bytes": 513208,
+    "sha256": "1f584b025a385b00c8a6708bddac24a028e4316483280b77ad3cb91d686bbe87",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgCamilanLokal",
+    "url": "https://www.figma.com/api/mcp/asset/a2f5018e-382f-428f-84e9-726e6385a00b.png",
+    "path": "assets/images/login-desktop-camilan-lokal.png",
+    "bytes": 2057489,
+    "sha256": "76e2a704256454a5d51cf75e018eb614195cc38c2a2be1f3a941fd7d1425a0c8",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgMinumanLokal",
+    "url": "https://www.figma.com/api/mcp/asset/19238bb7-35bf-4c2b-9d87-a3823424fd1b.png",
+    "path": "assets/images/login-desktop-minuman-lokal.png",
+    "bytes": 326067,
+    "sha256": "02e04de05be21222ac7d05ba776b3bb700dfd1fcc488cbd7fe19c4dd99fda34a",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_desktop",
+    "variable": "imgIcon",
+    "url": "https://www.figma.com/api/mcp/asset/56b4be82-8db9-4133-b20b-b040c446c2cf.svg",
+    "path": "assets/icons/login-desktop-icon.svg",
+    "bytes": 1734,
+    "sha256": "71cdc0a90f570786f0c82086d1815e6e5ac0703cd9446afd299f4c51c3871b6e",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "login_mobile",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/245d5c3c-89f5-44c8-ad80-b08e6b4aba79.png",
+    "path": "assets/images/login-mobile-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_mobile",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/5fdbf469-d8bc-4e42-9e31-4447ea2d05fd.png",
+    "path": "assets/images/login-mobile-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "login_mobile",
+    "variable": "imgIcon",
+    "url": "https://www.figma.com/api/mcp/asset/33307f26-8479-4891-b794-46c02b32896e.svg",
+    "path": "assets/icons/login-mobile-icon.svg",
+    "bytes": 1734,
+    "sha256": "3251cce99102ccd766fbb9c6da3d91f8e7342226cc503cfc1eba6b58f7268e29",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/3923424f-6956-4c2b-b0df-8551064aeb71.svg",
+    "path": "assets/icons/owner-dashboard-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "86679db732c6e8368de87c4919f1bddd987f828821791637f8edf665249275a0",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/110b1b9b-67b0-482d-b687-b707fe25be00.svg",
+    "path": "assets/icons/owner-dashboard-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "69994acc4f9eb13f7670077f5ee96fb2b8ef22257e762db72d3082c86016c59f",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "url": "https://www.figma.com/api/mcp/asset/ce61cb5d-bf9a-4b7e-b2c7-de2c0317a4f4.svg",
+    "path": "assets/icons/owner-dashboard-desktop-shopping-bag-outlined.svg",
+    "bytes": 1670,
+    "sha256": "b0397c746c316fba9f39fbb5a54cecc037ccf30234dd55db4fb81083967bc0b5",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgCategories",
+    "url": "https://www.figma.com/api/mcp/asset/913affa9-1897-40a9-9ace-9b755d7386da.svg",
+    "path": "assets/icons/owner-dashboard-desktop-categories.svg",
+    "bytes": 2039,
+    "sha256": "d844c24ccdb98832ad69ab0988adbe177c55a5780980d1a22e1f5523d284c7c3",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/8a372a40-c922-4f2c-a754-e302dc56d13d.png",
+    "path": "assets/images/owner-dashboard-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/df487779-fb6d-4567-9f8a-3e116ae06200.png",
+    "path": "assets/images/owner-dashboard-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/bd70d68c-0035-4259-8ce2-a9e92e40840a.png",
+    "path": "assets/images/owner-dashboard-desktop-foto-produk.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/d545c081-c8b3-4c14-aaba-1469e5645a46.png",
+    "path": "assets/images/owner-dashboard-desktop-foto-produk1.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk3.png",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/ae8b3cdc-2633-4295-a226-4044b130e2ad.png",
+    "path": "assets/images/owner-dashboard-desktop-foto-produk2.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk7.png",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgFotoProduk3",
+    "url": "https://www.figma.com/api/mcp/asset/6c01780f-3041-4c01-92e3-65fa45b4a0d1.png",
+    "path": "assets/images/owner-dashboard-desktop-foto-produk3.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk15.png",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShieldCheck",
+    "url": "https://www.figma.com/api/mcp/asset/19ef8104-8439-417d-8877-7265bd5a3da2.svg",
+    "path": "assets/icons/owner-dashboard-desktop-shield-check.svg",
+    "bytes": 869,
+    "sha256": "369fc143ad4bab7751bd15eae254206abbdb3864ba6ef66cab2834e1d9fd6e72",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-shield-check.svg",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgLogOut",
+    "url": "https://www.figma.com/api/mcp/asset/53a8ea49-d057-4c17-8013-42cbc66decea.svg",
+    "path": "assets/icons/owner-dashboard-desktop-log-out.svg",
+    "bytes": 529,
+    "sha256": "40a8e3331e065ec8cd6c4b9e338fff2382ff334ed31e96d0bee462930f1f6d52",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgChevronDown",
+    "url": "https://www.figma.com/api/mcp/asset/68a6bec3-a17a-48bc-a7c8-38ae35a2d50c.svg",
+    "path": "assets/icons/owner-dashboard-desktop-chevron-down.svg",
+    "bytes": 310,
+    "sha256": "6ece62901b45365c3b996662b0f04c62823a19eb923672eb43ddeb5ad88682cc",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-chevron-down.svg",
+    "dimensions": {
+      "width": "14",
+      "height": "14",
+      "viewBox": "0 0 14 14"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgCircleCheck",
+    "url": "https://www.figma.com/api/mcp/asset/f81f94d8-1b7d-46fa-9c15-ddca003aad79.svg",
+    "path": "assets/icons/owner-dashboard-desktop-circle-check.svg",
+    "bytes": 616,
+    "sha256": "773d897d79c40b18950725900865b4051e7eab5e8489cda4e226f2c255308d3c",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgX",
+    "url": "https://www.figma.com/api/mcp/asset/029451d3-61c0-44cf-b9cb-29873cb1f217.svg",
+    "path": "assets/icons/owner-dashboard-desktop-x.svg",
+    "bytes": 309,
+    "sha256": "06096965c5502bd0b563db36f2f7eef749fbdeb1e2758a817856a32d7e8d2b88",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgShoppingBag",
+    "url": "https://www.figma.com/api/mcp/asset/23136ebe-4da7-4f91-9cf7-ed054faf9b42.svg",
+    "path": "assets/icons/owner-dashboard-desktop-shopping-bag.svg",
+    "bytes": 1098,
+    "sha256": "bd3dcb358dbc457940adedf31507c47e04b9ce3c0be94b4f414d2d2f3eb64bd4",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgStore1",
+    "url": "https://www.figma.com/api/mcp/asset/2d042050-6622-476b-94c2-40f5026e7ceb.svg",
+    "path": "assets/icons/owner-dashboard-desktop-store1.svg",
+    "bytes": 1993,
+    "sha256": "6ee11d615d447b6ae043d9e0edac8baaa3c076694b485c03c83bb59b55a65396",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_dashboard_desktop",
+    "variable": "imgMessageCircle",
+    "url": "https://www.figma.com/api/mcp/asset/c6085f1c-76f5-4ef2-9878-032436cc6b91.svg",
+    "path": "assets/icons/owner-dashboard-desktop-message-circle.svg",
+    "bytes": 1129,
+    "sha256": "98f0349eeef1f4015773e3978ab02964f42a7a50c39be2942b10b6556d109dd6",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgIcon",
+    "url": "https://www.figma.com/api/mcp/asset/3fc2333c-18d1-4c35-81dc-854843e912aa.svg",
+    "path": "assets/icons/owner-profile-desktop-icon.svg",
+    "bytes": 797,
+    "sha256": "929aa9a635f793de99c3ecdfad7ed667917a39d99b7b8f010d9b1bcc3ddd67bd",
+    "dimensions": {
+      "width": "12",
+      "height": "12",
+      "viewBox": "0 0 12 12"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/2212a518-7ecf-4c99-baa7-3a9e48a9151d.svg",
+    "path": "assets/icons/owner-profile-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "0c1dab7ed88781f9b1bb633f2e0f672c87c5407fbc8f693b748e9c191efdacb9",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/c8a9e214-0003-482f-9c9e-f2c89de5a031.svg",
+    "path": "assets/icons/owner-profile-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "6000d5bd5b715574cd5173766d804d1bc2da4688fdce89619c1242afa080aa37",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "url": "https://www.figma.com/api/mcp/asset/69054c4c-cd3b-4b86-adb5-850a418d89f4.svg",
+    "path": "assets/icons/owner-profile-desktop-shopping-bag-outlined.svg",
+    "bytes": 1670,
+    "sha256": "a0c1280b997cd0bfb10c99d7793bb838031f4ed11a5e69a9abc448e8e6491cb5",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgCategories",
+    "url": "https://www.figma.com/api/mcp/asset/b9c5249e-4945-453b-945e-15782adf8bd4.svg",
+    "path": "assets/icons/owner-profile-desktop-categories.svg",
+    "bytes": 2039,
+    "sha256": "69aaaaf84384c548536a53e389abaa222c054b88cbbaca293c26556b5febd047",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/ca7a62c2-e0c6-4522-a665-96f0d109f975.png",
+    "path": "assets/images/owner-profile-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/bc9fa769-5a72-41cc-add1-a7348ca6f176.png",
+    "path": "assets/images/owner-profile-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgBannerToko",
+    "url": "https://www.figma.com/api/mcp/asset/ba781457-e0ba-4add-9105-d062ac437d71.png",
+    "path": "assets/images/owner-profile-desktop-banner-toko.png",
+    "bytes": 126221,
+    "sha256": "a41e34064e3a94e8c24189cb91baca1a7ddd87938454773e93400319665a743f",
+    "dimensions": {
+      "width": 1584,
+      "height": 672,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgShieldCheck",
+    "url": "https://www.figma.com/api/mcp/asset/adc2d394-997b-4d35-8c0f-35545555fdeb.svg",
+    "path": "assets/icons/owner-profile-desktop-shield-check.svg",
+    "bytes": 869,
+    "sha256": "369fc143ad4bab7751bd15eae254206abbdb3864ba6ef66cab2834e1d9fd6e72",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-shield-check.svg",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgLogOut",
+    "url": "https://www.figma.com/api/mcp/asset/594dd7d1-da09-4af4-9b9d-677dee9659f4.svg",
+    "path": "assets/icons/owner-profile-desktop-log-out.svg",
+    "bytes": 529,
+    "sha256": "40a8e3331e065ec8cd6c4b9e338fff2382ff334ed31e96d0bee462930f1f6d52",
+    "sameBytesAs": "assets/icons/owner-dashboard-desktop-log-out.svg",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgChevronDown",
+    "url": "https://www.figma.com/api/mcp/asset/4f3a5c85-9f17-4a16-a6d7-5ec80b06f108.svg",
+    "path": "assets/icons/owner-profile-desktop-chevron-down.svg",
+    "bytes": 310,
+    "sha256": "6ece62901b45365c3b996662b0f04c62823a19eb923672eb43ddeb5ad88682cc",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-chevron-down.svg",
+    "dimensions": {
+      "width": "14",
+      "height": "14",
+      "viewBox": "0 0 14 14"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgInfo",
+    "url": "https://www.figma.com/api/mcp/asset/1c862284-f0f3-4375-995c-c5a3b9aabe30.svg",
+    "path": "assets/icons/owner-profile-desktop-info.svg",
+    "bytes": 602,
+    "sha256": "e0d775c30d9b793e0dfd5e38c82614e72d74128a7c82a67ac4488b40d64c1bea",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "owner_profile_desktop",
+    "variable": "imgX",
+    "url": "https://www.figma.com/api/mcp/asset/53c6d16f-bac5-4480-b2e5-6b080957c45c.svg",
+    "path": "assets/icons/owner-profile-desktop-x.svg",
+    "bytes": 309,
+    "sha256": "112fdd1057fbdb4070f965ee2aaa64548b073ff1ebde37a69fdc4b30febea79b",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgSearch",
+    "url": "https://www.figma.com/api/mcp/asset/1ca7ba96-27e2-405d-840a-ba7f3c745c31.svg",
+    "path": "assets/icons/product-desktop-search.svg",
+    "bytes": 1069,
+    "sha256": "fa62713ff5c587a67240ce0033562c69dd43c9bb5c06840cc8659d0ec45b1b9e",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/e06a0e70-5f33-43f9-803c-571a613acac6.png",
+    "path": "assets/images/product-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/1731998a-d6bb-42e1-a07e-26ccc95e4631.png",
+    "path": "assets/images/product-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoUtamaArabicaGayo",
+    "url": "https://www.figma.com/api/mcp/asset/aad49cff-e7dc-4374-bdaf-88e1a54aa016.png",
+    "path": "assets/images/product-desktop-foto-utama-arabica-gayo.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoGaleri",
+    "url": "https://www.figma.com/api/mcp/asset/7836a7d0-9c85-4fa8-ba7a-449b09e0cb5a.png",
+    "path": "assets/images/product-desktop-foto-galeri.png",
+    "bytes": 1027178,
+    "sha256": "0bcfa33bd6f04d5f14123abf9dcbcb294e8c89bf90111ed0b280baa13cc024c1",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoGaleri1",
+    "url": "https://www.figma.com/api/mcp/asset/a4ac02c3-f6ce-4d8f-a0d7-169dbe8240f8.png",
+    "path": "assets/images/product-desktop-foto-galeri1.png",
+    "bytes": 1181720,
+    "sha256": "f2abf080d0c531e020244148dd8c1914100ef106ae901b0b7eefdcd39963378c",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoGaleri2",
+    "url": "https://www.figma.com/api/mcp/asset/0a5f53d1-94a3-4060-a476-0a7435c3f577.png",
+    "path": "assets/images/product-desktop-foto-galeri2.png",
+    "bytes": 893544,
+    "sha256": "7cac1ed7f93333a58e70a30b797a267b3d034e0e1357c008f29e3c15e2e4c664",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/b9ae1275-4fbc-4fae-a612-92218ee7a168.png",
+    "path": "assets/images/product-desktop-foto-produk.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk3.png",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/810fca74-9f2a-442c-b9d4-1c00eb6e514a.png",
+    "path": "assets/images/product-desktop-foto-produk1.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk7.png",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_desktop",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/babce2d3-a703-49a3-915a-831aff313597.png",
+    "path": "assets/images/product-desktop-foto-produk2.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk15.png",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgSearch",
+    "url": "https://www.figma.com/api/mcp/asset/78818d71-c111-49cf-aca5-6ac176c0af57.svg",
+    "path": "assets/icons/product-mobile-search.svg",
+    "bytes": 1069,
+    "sha256": "672f75742131ff93bfa4935becc3c67f6556bc609d20c1c3b3d05395b7c64e41",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/8b8f1b38-1855-4bd6-ba8c-b63449c15fb3.png",
+    "path": "assets/images/product-mobile-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/3aead53e-ab02-4475-aa80-359adc73e5bd.png",
+    "path": "assets/images/product-mobile-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoUtamaArabicaGayo",
+    "url": "https://www.figma.com/api/mcp/asset/0ddae0c8-ff97-466d-b27f-fce8608f948e.png",
+    "path": "assets/images/product-mobile-foto-utama-arabica-gayo.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoGaleri",
+    "url": "https://www.figma.com/api/mcp/asset/bc07b4a5-bf98-476a-8391-592318cf115e.png",
+    "path": "assets/images/product-mobile-foto-galeri.png",
+    "bytes": 1027178,
+    "sha256": "0bcfa33bd6f04d5f14123abf9dcbcb294e8c89bf90111ed0b280baa13cc024c1",
+    "sameBytesAs": "assets/images/product-desktop-foto-galeri.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoGaleri1",
+    "url": "https://www.figma.com/api/mcp/asset/65c4136c-a1e0-4843-a21c-0cecb26b75ae.png",
+    "path": "assets/images/product-mobile-foto-galeri1.png",
+    "bytes": 1181720,
+    "sha256": "f2abf080d0c531e020244148dd8c1914100ef106ae901b0b7eefdcd39963378c",
+    "sameBytesAs": "assets/images/product-desktop-foto-galeri1.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoGaleri2",
+    "url": "https://www.figma.com/api/mcp/asset/3fd5547f-d990-4c31-9825-d9ee1fd9e8b8.png",
+    "path": "assets/images/product-mobile-foto-galeri2.png",
+    "bytes": 893544,
+    "sha256": "7cac1ed7f93333a58e70a30b797a267b3d034e0e1357c008f29e3c15e2e4c664",
+    "sameBytesAs": "assets/images/product-desktop-foto-galeri2.png",
+    "dimensions": {
+      "width": 800,
+      "height": 1200,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/677b25b5-dcb6-4dee-b810-6523983ee446.png",
+    "path": "assets/images/product-mobile-foto-produk.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk3.png",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/0c984b69-7dd6-4831-b2f5-b491dd34b7f7.png",
+    "path": "assets/images/product-mobile-foto-produk1.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk7.png",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/1b1f6881-2798-4f0b-9f3b-a9d77f19183e.png",
+    "path": "assets/images/product-mobile-foto-produk2.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk15.png",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "product_mobile",
+    "variable": "imgMenu",
+    "url": "https://www.figma.com/api/mcp/asset/68e8ab34-3394-4db4-aded-2fa49660736b.svg",
+    "path": "assets/icons/product-mobile-menu.svg",
+    "bytes": 320,
+    "sha256": "8900bc96a970b4fa8c2b95acfe7774127a6ea460b81f9eb0ee42990d3433864d",
+    "sameBytesAs": "assets/icons/catalog-mobile-menu.svg",
+    "dimensions": {
+      "width": "22",
+      "height": "22",
+      "viewBox": "0 0 22 22"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgProfile",
+    "url": "https://www.figma.com/api/mcp/asset/b2a58c28-abeb-4272-9f25-71fd7168d552.svg",
+    "path": "assets/icons/report-detail-desktop-profile.svg",
+    "bytes": 930,
+    "sha256": "f1ee85c30be03a4fc0aa3b6f15a7a8faf3f6bc778fad25fae3ad5a8d4499b935",
+    "dimensions": {
+      "width": "24.0009",
+      "height": "24.0006",
+      "viewBox": "0 0 24.0009 24.0006"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/181fd1db-3333-416f-ac7c-ccb55d3f7bab.svg",
+    "path": "assets/icons/report-detail-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "5035c62c1c73da6d6529cda0130a1919113689802ba0ef6c262fe111ff683338",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "url": "https://www.figma.com/api/mcp/asset/69f753f9-5b07-4bc0-bd43-79c505819ee9.svg",
+    "path": "assets/icons/report-detail-desktop-shopping-bag-outlined.svg",
+    "bytes": 1670,
+    "sha256": "f9cab33fbce1a4b6d7c4ca9831008a980641c2b33f19aed4fcf05efa39bd5a5a",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/bf120cdb-feb9-46dc-b09a-69e4640d7215.svg",
+    "path": "assets/icons/report-detail-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "96ee1bc80d8b2d51c88eb77fe383dd3bdcb9572f149c33f23040534b429041f3",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgCategories",
+    "url": "https://www.figma.com/api/mcp/asset/d86bb0c2-9935-4612-b88e-b84709e7f621.svg",
+    "path": "assets/icons/report-detail-desktop-categories.svg",
+    "bytes": 2039,
+    "sha256": "a67a0923232ba6941c0e18002a7912b89b7fa143f658ffff2c06f40f8a7c5835",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/b9f97fac-e625-44af-ac8e-714cf2d7495f.png",
+    "path": "assets/images/report-detail-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/f6f81003-a6f6-48ab-a6c9-52636a767dc8.png",
+    "path": "assets/images/report-detail-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgFotoArabicaGayo",
+    "url": "https://www.figma.com/api/mcp/asset/ab4fdf52-587e-4986-af18-8f56f95b5f57.png",
+    "path": "assets/images/report-detail-desktop-foto-arabica-gayo.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon",
+    "url": "https://www.figma.com/api/mcp/asset/85139902-18a7-43c7-adcb-29248a9ae613.svg",
+    "path": "assets/icons/report-detail-desktop-ikon.svg",
+    "bytes": 3912,
+    "sha256": "1c220d0d8e3dfa58dc409d43343f154dc8af4b14facba2f703454b31e787abd6",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon1",
+    "url": "https://www.figma.com/api/mcp/asset/caeb1bb4-23ee-4b3f-b6d9-dd2d55e4bb81.svg",
+    "path": "assets/icons/report-detail-desktop-ikon1.svg",
+    "bytes": 526,
+    "sha256": "a74786613d9865bb38f389fa6bc61821b2f2eb33f9230815e76985ab5eb489f3",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon2",
+    "url": "https://www.figma.com/api/mcp/asset/23c7b172-ce34-4518-a841-16f524541e98.svg",
+    "path": "assets/icons/report-detail-desktop-ikon2.svg",
+    "bytes": 302,
+    "sha256": "86217072f3c2f9ff936c804b2476fff67a952d32d24952c09e8c06c96ec59ea3",
+    "dimensions": {
+      "width": "14",
+      "height": "14",
+      "viewBox": "0 0 14 14"
+    }
+  },
+  {
+    "frame": "report_detail_desktop",
+    "variable": "imgIkon3",
+    "url": "https://www.figma.com/api/mcp/asset/04576606-6f31-44c8-a830-c5f9b5f607a5.svg",
+    "path": "assets/icons/report-detail-desktop-ikon3.svg",
+    "bytes": 1453,
+    "sha256": "f61ee01199a641f2989829f257170cc05cbf926e80337ac0c605704e1fe32074",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgLogoPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/33c29c59-6d7c-4865-9e0c-d5ae6ce856f5.png",
+    "path": "assets/images/signup-desktop-logo-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgKemejaLokal",
+    "url": "https://www.figma.com/api/mcp/asset/836c0dd6-e3c3-49a1-830b-ff465a7a5b20.png",
+    "path": "assets/images/signup-desktop-kemeja-lokal.png",
+    "bytes": 625338,
+    "sha256": "711a9061c5402eb9433b225b0661f5e3899c7df3ee67cc413ae2d733f0341e11",
+    "sameBytesAs": "assets/images/login-desktop-kemeja-lokal.png",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgGulaKelapa",
+    "url": "https://www.figma.com/api/mcp/asset/af9dc8b8-d4f8-4494-9a39-c7bc4f284a9f.png",
+    "path": "assets/images/signup-desktop-gula-kelapa.png",
+    "bytes": 513208,
+    "sha256": "1f584b025a385b00c8a6708bddac24a028e4316483280b77ad3cb91d686bbe87",
+    "sameBytesAs": "assets/images/login-desktop-gula-kelapa.png",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgCamilanLokal",
+    "url": "https://www.figma.com/api/mcp/asset/a88026e7-f779-4802-92c8-1b1fb6463975.png",
+    "path": "assets/images/signup-desktop-camilan-lokal.png",
+    "bytes": 2057489,
+    "sha256": "76e2a704256454a5d51cf75e018eb614195cc38c2a2be1f3a941fd7d1425a0c8",
+    "sameBytesAs": "assets/images/login-desktop-camilan-lokal.png",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgMinumanLokal",
+    "url": "https://www.figma.com/api/mcp/asset/6e9178c2-2613-4be7-bb40-05db8406a0b5.png",
+    "path": "assets/images/signup-desktop-minuman-lokal.png",
+    "bytes": 326067,
+    "sha256": "02e04de05be21222ac7d05ba776b3bb700dfd1fcc488cbd7fe19c4dd99fda34a",
+    "sameBytesAs": "assets/images/login-desktop-minuman-lokal.png",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_desktop",
+    "variable": "imgIcon",
+    "url": "https://www.figma.com/api/mcp/asset/74c5f770-3965-463b-8c9a-a1138437e132.svg",
+    "path": "assets/icons/signup-desktop-icon.svg",
+    "bytes": 1736,
+    "sha256": "90db636b22e28ceddf7e20959a9e8830cbe7575132259eb10066f9214a738e24",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "signup_mobile",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/9f87d307-c7c4-4677-b13a-b4e3606f5fc9.png",
+    "path": "assets/images/signup-mobile-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_mobile",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/74981557-1827-4331-b972-8c634909e7de.png",
+    "path": "assets/images/signup-mobile-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "signup_mobile",
+    "variable": "imgIcon",
+    "url": "https://www.figma.com/api/mcp/asset/cac42c0e-4977-4f78-8ab6-37e15c79a4aa.svg",
+    "path": "assets/icons/signup-mobile-icon.svg",
+    "bytes": 1736,
+    "sha256": "35b06e86e97b747b72cacd11867a7efe7a3533925c5c165ebda2c99bad810dc3",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgSearch",
+    "url": "https://www.figma.com/api/mcp/asset/5d6513d4-acd7-4cf7-9f80-77bf0aad660c.svg",
+    "path": "assets/icons/store-desktop-search.svg",
+    "bytes": 1067,
+    "sha256": "ef87db9b7718fb1bbe4d493ae94ce74ed0a63f3a51ab99cac660d78b94d59af6",
+    "dimensions": {
+      "width": "16",
+      "height": "16",
+      "viewBox": "0 0 16 16"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/0c8b6ca3-14d7-46dc-b848-dc6b6a80adfd.png",
+    "path": "assets/images/store-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/753ff4a1-2079-4c2a-9a95-b65ebd7cf3d6.png",
+    "path": "assets/images/store-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgBannerDikalaSenjaCafe",
+    "url": "https://www.figma.com/api/mcp/asset/35ced05c-1b55-47fe-8d9c-ba67b12a9bb5.png",
+    "path": "assets/images/store-desktop-banner-dikala-senja-cafe.png",
+    "bytes": 126221,
+    "sha256": "a41e34064e3a94e8c24189cb91baca1a7ddd87938454773e93400319665a743f",
+    "sameBytesAs": "assets/images/owner-profile-desktop-banner-toko.png",
+    "dimensions": {
+      "width": 1584,
+      "height": 672,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgFotoProduk",
+    "url": "https://www.figma.com/api/mcp/asset/dd1d57b4-1569-4bd6-a851-0b929ef02b7f.png",
+    "path": "assets/images/store-desktop-foto-produk.png",
+    "bytes": 98978,
+    "sha256": "6fd266098f133b2a8e52cdeace34afaf54f3f84227272a24f724c2ce0ddbc295",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk.png",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgFotoProduk1",
+    "url": "https://www.figma.com/api/mcp/asset/6b393caa-c48d-4bc8-89dc-a6688237158e.png",
+    "path": "assets/images/store-desktop-foto-produk1.png",
+    "bytes": 670480,
+    "sha256": "e303f0fe4f9a7280c8051e0d9c87e6a3f7a7e2bcb41a45285ba15d88e156d31f",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk3.png",
+    "dimensions": {
+      "width": 735,
+      "height": 919,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgFotoProduk2",
+    "url": "https://www.figma.com/api/mcp/asset/9effc1ee-f3e2-4f75-97e0-b4c86aaad509.png",
+    "path": "assets/images/store-desktop-foto-produk2.png",
+    "bytes": 1349800,
+    "sha256": "d454cfb27e615fa8176b914b730d79894b138f87ff4348eee9a4443988394ac9",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk7.png",
+    "dimensions": {
+      "width": 1153,
+      "height": 1441,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "store_desktop",
+    "variable": "imgFotoProduk3",
+    "url": "https://www.figma.com/api/mcp/asset/3d5dcf17-8fc1-4749-90fc-86fecb9bdb32.png",
+    "path": "assets/images/store-desktop-foto-produk3.png",
+    "bytes": 590983,
+    "sha256": "5169add5080efa2da44c9537f05665b001d47ffcf88e7c9cbd442c3d4ff26f30",
+    "sameBytesAs": "assets/images/catalog-desktop-foto-produk15.png",
+    "dimensions": {
+      "width": 564,
+      "height": 845,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgProfile",
+    "url": "https://www.figma.com/api/mcp/asset/19c2e39e-358e-4bce-bc84-89584301f9c3.svg",
+    "path": "assets/icons/verification-detail-desktop-profile.svg",
+    "bytes": 930,
+    "sha256": "aed9112d7df0640317a107aa4769ebb5472851f09016739ce30c128aa3ba46e7",
+    "dimensions": {
+      "width": "24.0009",
+      "height": "24.0006",
+      "viewBox": "0 0 24.0009 24.0006"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgChat",
+    "url": "https://www.figma.com/api/mcp/asset/e26610a2-5390-4b2d-b7b6-c48467a36f5b.svg",
+    "path": "assets/icons/verification-detail-desktop-chat.svg",
+    "bytes": 893,
+    "sha256": "98a599c09c8f6dd487840b37c86fe55676b813f8a5f9a393894988e6159adf30",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgShoppingBagOutlined",
+    "url": "https://www.figma.com/api/mcp/asset/a1abbd8d-ca7b-45e1-b8c2-2e5f179276d4.svg",
+    "path": "assets/icons/verification-detail-desktop-shopping-bag-outlined.svg",
+    "bytes": 1670,
+    "sha256": "b520dde61f323eaa1a99f2a239ad0677df44746707e9c7828fa1c73302973fbd",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgStore",
+    "url": "https://www.figma.com/api/mcp/asset/5d1e9f4f-a4a4-47d9-a5d1-ed0e4cde40e6.svg",
+    "path": "assets/icons/verification-detail-desktop-store.svg",
+    "bytes": 1220,
+    "sha256": "ef8ef6d029062b87840088bcde3d74aaab31eba653b84c7bb68704ae256ea295",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgCategories",
+    "url": "https://www.figma.com/api/mcp/asset/b312459b-6aaa-476e-a2cf-b6714c6d4d38.svg",
+    "path": "assets/icons/verification-detail-desktop-categories.svg",
+    "bytes": 2039,
+    "sha256": "fbc2c35e56053fd1d62e68f413660cc45b182650ce7ebe36edb86cf01306c827",
+    "dimensions": {
+      "width": "24",
+      "height": "24",
+      "viewBox": "0 0 24 24"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgSimbolPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/2da56bee-394b-4284-a488-c199233499d4.png",
+    "path": "assets/images/verification-detail-desktop-simbol-pasarin.png",
+    "bytes": 710179,
+    "sha256": "56b856b5994b7079a3f954cc60c15fa7476ff25cda11b1f284c8a9a93f4ed4b3",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-simbol-pasarin.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgNamaPasarin",
+    "url": "https://www.figma.com/api/mcp/asset/d198a9dc-29b6-438f-ad51-4bbca8142c1c.png",
+    "path": "assets/images/verification-detail-desktop-nama-pasarin.png",
+    "bytes": 611872,
+    "sha256": "f1232b2628395900410b6a4e3653becaab6267c53b77e48f37e26e80197a5504",
+    "sameBytesAs": "assets/images/admin-dashboard-desktop-nama-pasarin.png",
+    "dimensions": {
+      "width": 2172,
+      "height": 724,
+      "format": "PNG"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgBannerToko",
+    "url": "https://www.figma.com/api/mcp/asset/6c429b50-6271-4fd9-9803-7171f775648c.png",
+    "path": "assets/images/verification-detail-desktop-banner-toko.png",
+    "bytes": 126221,
+    "sha256": "a41e34064e3a94e8c24189cb91baca1a7ddd87938454773e93400319665a743f",
+    "sameBytesAs": "assets/images/owner-profile-desktop-banner-toko.png",
+    "dimensions": {
+      "width": 1584,
+      "height": 672,
+      "format": "JPEG"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgShieldCheck",
+    "url": "https://www.figma.com/api/mcp/asset/753bf878-9450-4c66-b6db-4b0588e0d3a8.svg",
+    "path": "assets/icons/verification-detail-desktop-shield-check.svg",
+    "bytes": 869,
+    "sha256": "369fc143ad4bab7751bd15eae254206abbdb3864ba6ef66cab2834e1d9fd6e72",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-shield-check.svg",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgLogOut",
+    "url": "https://www.figma.com/api/mcp/asset/b59775de-9904-484f-873e-5aa5c3e8539d.svg",
+    "path": "assets/icons/verification-detail-desktop-log-out.svg",
+    "bytes": 529,
+    "sha256": "746a335a39d38a123f680178f9586189e5d5ceb209ac2656e77ab50bdf22e856",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-log-out.svg",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgChevronDown",
+    "url": "https://www.figma.com/api/mcp/asset/1a2c9087-b2f8-4597-b3e7-716a6b1bae05.svg",
+    "path": "assets/icons/verification-detail-desktop-chevron-down.svg",
+    "bytes": 310,
+    "sha256": "6ece62901b45365c3b996662b0f04c62823a19eb923672eb43ddeb5ad88682cc",
+    "sameBytesAs": "assets/icons/admin-dashboard-desktop-chevron-down.svg",
+    "dimensions": {
+      "width": "14",
+      "height": "14",
+      "viewBox": "0 0 14 14"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgFileImage",
+    "url": "https://www.figma.com/api/mcp/asset/3f894ee4-0aef-46e0-8327-a758a639e130.svg",
+    "path": "assets/icons/verification-detail-desktop-file-image.svg",
+    "bytes": 1294,
+    "sha256": "66ff233aba06ebae7dccd46f462c455b19f2c309c126e9ecd3c07bda84b65641",
+    "dimensions": {
+      "width": "18",
+      "height": "18",
+      "viewBox": "0 0 18 18"
+    }
+  },
+  {
+    "frame": "verification_detail_desktop",
+    "variable": "imgInfo",
+    "url": "https://www.figma.com/api/mcp/asset/6ccdb11a-10c7-4b2f-ac8c-ae419da50414.svg",
+    "path": "assets/icons/verification-detail-desktop-info.svg",
+    "bytes": 600,
+    "sha256": "d197a70f85c9a8184a671f74f68cb670755d1c699cebec0afb58196ddff69cc5",
+    "dimensions": {
+      "width": "20",
+      "height": "20",
+      "viewBox": "0 0 20 20"
+    }
+  }
+]

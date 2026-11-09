@@ -1,0 +1,389 @@
+/* Exact image-fill geometry from the saved high-fidelity Figma references. */
+@media (min-width: 768px) {
+  .photo-catalog-p-001 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-002 img {
+    position: absolute;
+    left: 0.07%;
+    top: -64.55%;
+    width: 100%;
+    height: 211.24%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-003 img {
+    position: absolute;
+    left: 0;
+    top: -58.6%;
+    width: 100%;
+    height: 210.7%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-004 img {
+    position: absolute;
+    left: 0;
+    top: -32.39%;
+    width: 100%;
+    height: 132.29%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-005 img {
+    position: absolute;
+    left: -0.02%;
+    top: 0;
+    width: 100.03%;
+    height: 174.49%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-006 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-007 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 117.36%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-008 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-009 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-010 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-011 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-012 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-013 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-014 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-015 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-016 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+}
+@media (max-width: 767.98px) {
+  .photo-catalog-p-001 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-002 img {
+    position: absolute;
+    left: 0.07%;
+    top: -64.55%;
+    width: 100%;
+    height: 211.24%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-003 img {
+    position: absolute;
+    left: 0;
+    top: -58.6%;
+    width: 100%;
+    height: 210.7%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-004 img {
+    position: absolute;
+    left: 0;
+    top: -32.39%;
+    width: 100%;
+    height: 132.29%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-005 img {
+    position: absolute;
+    left: -0.02%;
+    top: 0;
+    width: 100.03%;
+    height: 174.49%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-006 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-007 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 117.36%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-catalog-p-008 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-009 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-010 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-011 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-012 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-013 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-014 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-015 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-catalog-p-016 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+}
+@media (min-width: 768px) {
+  .photo-store-p-001 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-store-p-004 img {
+    position: absolute;
+    left: 0;
+    top: -32.39%;
+    width: 100%;
+    height: 132.29%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-store-p-008 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-store-p-016 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+}
+@media (min-width: 768px) {
+  .photo-related-p-004 img {
+    position: absolute;
+    left: 0;
+    top: -32.39%;
+    width: 100%;
+    height: 132.29%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-related-p-008 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-related-p-016 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+}
+@media (max-width: 767.98px) {
+  .photo-related-p-004 img {
+    position: absolute;
+    left: 0;
+    top: -32.39%;
+    width: 100%;
+    height: 132.29%;
+    max-width: none;
+    object-fit: fill;
+  }
+  .photo-related-p-008 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+  .photo-related-p-016 img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+  }
+}
